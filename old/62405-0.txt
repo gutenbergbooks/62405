@@ -1,274 +1,98 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <title>
-      The Project Gutenberg eBook of Frankenstein Volume 2 (of 3), by Mary Wollstonecraft Shelley.
-    </title>
-    <style type="text/css">
-
-body {
-    margin-left: 10%;
-    margin-right: 10%;
-}
-
-    h1,h2,h3,h4,h5,h6 {
-    text-align: center; /* all headings centered */
-    clear: both;
-}
-
-p {
-    margin-top: .51em;
-    text-align: justify;
-    margin-bottom: .49em;
-}
-
-.p2       {margin-top: 2em;}
-.p4       {margin-top: 4em;}
-.p6       {margin-top: 6em;}
-
-hr {
-    width: 33%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: auto;
-    margin-right: auto;
-    clear: both;
-}
-
-hr.tb   {width: 45%;}
-hr.chap {width: 65%}
-hr.full {width: 95%;}
-
-hr.r5  {width: 5%; margin-top: 1em; margin-bottom: 1em;}
-hr.r65 {width: 65%; margin-top: 3em; margin-bottom: 3em;}
-
-ul.index { list-style-type: none; }
-li.ifrst { margin-top: 1em; }
-li.indx { margin-top: .5em; }
-li.isub1 {text-indent: 1em;}
-li.isub2 {text-indent: 2em;}
-li.isub3 {text-indent: 3em;}
-
-table {
-    margin-left: auto;
-    margin-right: auto;
-}
-
-    .tdl      {text-align: left;}
-    .tdr      {text-align: right;}
-    .tdc      {text-align: center;}
-
-.pagenum { /* uncomment the next line for invisible page numbers */
-    /*  visibility: hidden;  */
-    position: absolute;
-    left: 92%;
-    font-size: smaller;
-    text-align: right;
-} /* page numbers */
-
-.linenum {
-    position: absolute;
-    top: auto;
-    right: 10%;
-} /* poetry number */
-
-.blockquot {
-    margin-left: 5%;
-    margin-right: 10%;
-}
-
-.sidenote {
-    width: 10%;
-    padding-bottom: .5em;
-    padding-top: .5em;
-    padding-left: .5em;
-    padding-right: .5em;
-    margin-left: .5em;
-    float: left;
-    clear: left;
-    margin-top: .5em;
-    font-size: smaller;
-    color: black;
-    background: #eeeeee;
-    border: dashed 1px;
-}
-
-.bb       {border-bottom: solid 2px;}
-
-.bl       {border-left: solid 2px;}
-
-.bt       {border-top: solid 2px;}
-
-.br       {border-right: solid 2px;}
-
-.bbox     {border: solid 2px;}
+The Project Gutenberg EBook of Frankenstein, ou le Prométhée moderne
+Volume 2 (of 3), by Mary Wollstonecraft Shelley
 
-.center   {text-align: center;}
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
 
-.right   {text-align: right;}
 
-.smcap    {font-variant: small-caps;}
+Title: Frankenstein, ou le Prométhée moderne Volume 2 (of 3)
 
-.u        {text-decoration: underline;}
+Author: Mary Wollstonecraft Shelley
 
-.gesperrt
-{
-    letter-spacing: 0.2em;
-    margin-right: -0.2em;
-}
+Translator: Jules Saladin
 
-em.gesperrt
-{
-    font-style: normal;
-}
+Release Date: June 20, 2020 [EBook #62405]
 
-.caption  {font-weight: bold;}
+Language: French
 
-/* Images */
-.figcenter   {
-    margin: auto;
-    text-align: center;
-}
+Character set encoding: UTF-8
 
-.figleft {
-    float: left;
-    clear: left;
-    margin-left: 0;
-    margin-bottom: 1em;
-    margin-top: 1em;
-    margin-right: 1em;
-    padding: 0;
-    text-align: center;
-}
+*** START OF THIS PROJECT GUTENBERG EBOOK FRANKENSTEIN ***
 
-.figright {
-    float: right;
-    clear: right;
-    margin-left: 1em;
-    margin-bottom:
-    1em;
-    margin-top: 1em;
-    margin-right: 0;
-    padding: 0;
-    text-align: center;
-}
 
-/* Notes */
-.footnotes        {border: dashed 1px;}
 
-.footnote         {margin-left: 10%; margin-right: 10%; font-size: 0.9em;}
 
-.footnote .label  {position: absolute; right: 84%; text-align: right;}
+Produced by Laura Natal Rodrigues at Free Literature (Images
+generously made available by Gallica, Bibliothèque nationale
+de France.)
 
-.fnanchor {
-    vertical-align: super;
-    font-size: .8em;
-    text-decoration:
-    none;
-}
 
-.actor {font-size: 0.8em;
-        text-align: center;}
 
-/* Poetry */
-.poem {
-    margin-left:10%;
-    margin-right:10%;
-    text-align: left;
-}
 
-.poem br {display: none;}
 
-.poem .stanza {margin: 1em 0em 1em 0em;}
 
-/* Transcriber's notes */
-.transnote {background-color: #E6E6FA;
-    color: black;
-     font-size:smaller;
-     padding:0.5em;
-     margin-bottom:5em;
-     font-family:sans-serif, serif; }
-    </style>
-  </head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 62405 ***</div>
+FRANKENSTEIN
 
-<div class="figcenter" style="width: 500px;">
-<img src="images/frankenstein02_cover.jpg" width="500" alt="" />
-</div>
+OU
 
+LE PROMÉTHÉE MODERNE
 
-<h2>FRANKENSTEIN,</h2>
+DEDIÉ A WILLIAM GODWIN,
 
-<h4>OU</h4>
+AUTEUR DE LA JUSTICE POLITIQUE, DE CALEB WILLIAMS, etc.
 
-<h2>LE PROMÉTHÉE MODERNE.</h2>
+Par Mme SHELLY, sa nièce.
 
-<h4>DÉDIÉ A WILLIAM GODWIN,</h4>
+TRADUIT DE L'ANGLAIS PAS. J. S.***
 
-<h5>AUTEUR DE LA JUSTICE POLITIQUE, DE CALEB WILLIAMS, etc.</h5>
+Créateur, t'ai-je demandé de me tirer de
+l'argile pour me faire homme? T'ai-je
+sollicité de m'arracher du néant?
 
-<h3>Par M<sup>me</sup> SHELLY, sa nièce.</h3>
+Milton, _Paradis perdu._
 
-<h4>TRADUIT DE L'ANGLAIS PAR J. S.***</h4>
+TOME DEUXIÈME
 
-<p><span style="margin-left: 20em;">Créateur, t'ai-je demandé de me tirer de</span><br />
-<span style="margin-left: 21.5em;">l'argile pour me faire homme? T'ai-je</span><br />
-<span style="margin-left: 21.5em;">sollicité de m'arracher du néant?</span></p>
+PARIS,
 
-<p style="margin-left: 50%;">MILTON, <i>Paradis perdu.</i></p>
+CHEZ CORRÉARD, LIBRAIRE
 
-<h4>TOME DEUXIÈME</h4>
+PALAIS ROYAL, GALERIE DE BOIS, N.° 258.
 
-<h5>PARIS,</h5>
+1821
 
-<h5>CHEZ CORRÉARD, LIBRAIRE</h5>
 
-<h5>PALAIS ROYAL, GALERIE DE BOIS, N.° 258.</h5>
 
-<h5>1821</h5>
 
+TABLE
+CHAPITRE VIII
+CHAPITRE IX
+CHAPITRE X
+CHAPITRE XI
+CHAPITRE XII
+CHAPITRE XIII
+CHAPITRE XIV
+CHAPITRE XV
+CHAPITRE XVI
 
 
 
-<hr class="chap" />
 
+FRANKENSTEIN,
 
-<p>TABLE</p>
-<p><a href="#CHAPITRE_VIII">CHAPITRE VIII</a><br />
-<a href="#CHAPITRE_IX">CHAPITRE IX</a><br />
-<a href="#CHAPITRE_X">CHAPITRE X</a><br />
-<a href="#CHAPITRE_XI">CHAPITRE XI</a><br />
-<a href="#CHAPITRE_XII">CHAPITRE XII</a><br />
-<a href="#CHAPITRE_XIII">CHAPITRE XIII</a><br />
-<a href="#CHAPITRE_XIV">CHAPITRE XIV</a><br />
-<a href="#CHAPITRE_XV">CHAPITRE XV</a><br />
-<a href="#CHAPITRE_XVI">CHAPITRE XVI</a></p>
+OU
 
+LE PROMÉTHÉE MODERNE
 
 
 
-<hr class="chap" />
 
+CHAPITRE VIII
 
-<h4>FRANKENSTEIN,<br />
 
-OU<br />
-
-LE PROMÉTHÉE MODERNE</h4>
-
-
-
-<hr class="r5" />
-
-
-<h4><a id="CHAPITRE_VIII">CHAPITRE VIII</a></h4>
-
-
-<p>Rien n'est plus pénible pour le cœur de l'homme, que le calme glacial
+Rien n'est plus pénible pour le cœur de l'homme, que le calme glacial
 qui succède aux sentiments divers soulevés par une suite rapide
 d'événements, et la certitude qui enlève en même temps l'espérance
 et la crainte. Justine n'était plus! Et moi je vivais! Le sang
@@ -284,15 +108,15 @@ Maintenant tout était changé: au lieu de cette paix de conscience, qui
 me permettait de jeter avec satisfaction les yeux sur le passé, et qui
 donnait à mes espérances une force nouvelle, j'éprouvais le remords
 et le sentiment du crime, qui me livraient à des tourments affreux et
-difficiles à dépeindre.</p>
+difficiles à dépeindre.
 
-<p>Cette situation d'esprit influa sur ma santé, dont le rétablissement
+Cette situation d'esprit influa sur ma santé, dont le rétablissement
 était complet. Je fuyais la présence des hommes; j'étais tourmenté
 par la joie et le bonheur des autres; je ne trouvais de consolation que
 dans la solitude... dans une solitude profonde, terrible, semblable à
-la mort.</p>
+la mort.
 
-<p>Mon père s'aperçut avec peine que mon caractère et mes habitudes
+Mon père s'aperçut avec peine que mon caractère et mes habitudes
 étaient sensiblement changés. Il essaya de me prouver, par des
 raisonnements, combien j'avais tort de m'abandonner à un chagrin
 immodéré. «Pensez-vous, Victor, dit-il, que je ne souffre pas comme
@@ -302,21 +126,21 @@ devoir de ceux qui survivent, de chercher à ne pas augmenter leur
 malheur, en laissant paraître l'excès du chagrin? C'est aussi un
 devoir pour vous-même; car la douleur excessive éteint toutes les
 facultés, ou rend même incapable de remplir les devoirs journaliers,
-sans lesquels l'homme n'est pas propre à la société».</p>
+sans lesquels l'homme n'est pas propre à la société».
 
-<p>Cet avis était bon; mais il n'était nullement applicable à ma
+Cet avis était bon; mais il n'était nullement applicable à ma
 position. J'aurais été le premier à cacher mon chagrin et à consoler
 mes amis, si le remords ne s'était mêlé à mes autres sentiments. Je
 ne pus alors répondre à mon père qu'avec un regard de désespoir; et,
-depuis, je cherchai à me dérober à sa vue.</p>
+depuis, je cherchai à me dérober à sa vue.
 
-<p>Vers cette époque, à peu près, nous nous retirâmes à notre maison
-de Belrive. Ce changement me fut particulièrement agréable. Notre
+Vers cette époque, à peu près, nous nous retirâmes à notre maison de
+Belrive. Ce changement me fut particulièrement agréable. Notre
 résidence à Genève n'était pas sans inconvénients; car, les portes
 de la ville étant régulièrement fermées à dix heures, il était
-impossible de rester plus tard sur le lac. J'étais libre alors.</p>
+impossible de rester plus tard sur le lac. J'étais libre alors.
 
-<p>Souvent, dans la nuit, quand toute la famille reposait, je prenais une
+Souvent, dans la nuit, quand toute la famille reposait, je prenais une
 barque et passais plusieurs heures sur l'eau. Tantôt, en déployant les
 voiles, j'étais poussé par le vent; tantôt, après avoir ramé
 jusqu'au milieu du lac, je laissais le bateau suivre son propre cours,
@@ -331,9 +155,9 @@ douleur de l'héroïque Élisabeth, que j'aimais tendrement, et dont
 l'existence était attachée à la mienne. Je pensais aussi à mon
 père, et au frère qui me restait: les laisserai-je, par une lâche
 désertion, exposés, sans protection, à la méchanceté du Démon que
-j'avais lancé au milieu d'eux?</p>
+j'avais lancé au milieu d'eux?
 
-<p>Dans ces moments, des larmes amères inondaient mon visage. Je désirais
+Dans ces moments, des larmes amères inondaient mon visage. Je désirais
 que la paix rentrât dans mon esprit, mais je ne la voulais que pour
 leur offrir des consolations et le bonheur. Vains désirs! le remords
 m'ôtait toute espérance. J'avais causé des maux irréparables, et
@@ -350,9 +174,9 @@ j'avais donnée avec tant d'imprudence. Si je pensais à ses crimes et
 de la modération. Je serais monté au sommet le plus élevé des Andes,
 si j'avais pu, de là, le précipiter à leur pied. Je désirais le
 revoir, afin de faire retomber ma colère sur sa tête, et de venger la
-mort de Guillaume et de Justine.</p>
+mort de Guillaume et de Justine.
 
-<p>Notre maison était celle du deuil. La santé de mon père était
+Notre maison était celle du deuil. La santé de mon père était
 fortement ébranlée par l'horreur des derniers événements. Élisabeth
 était triste et découragée: elle ne trouvait plus de bonheur dans ses
 occupations accoutumées; il lui semblait que tout plaisir était un
@@ -362,9 +186,9 @@ indignement sacrifiée. Ce n'était plus cette heureuse personne qui,
 quelques années auparavant, errait avec moi sur les bords du lac, et
 parlait avec ravissement de notre avenir. Elle était devenue grave, et
 parlait souvent de l'inconstance de la fortune, et de l'instabilité de
-la vie humaine.</p>
+la vie humaine.
 
-<p>«En réfléchissant, mon cher cousin, disait-elle, à la mort
+«En réfléchissant, mon cher cousin, disait-elle, à la mort
 malheureuse de Justine Moritz, je ne vois plus le monde et ses œuvres,
 comme ils me paraissaient autrefois. Avant cette fin tragique, je ne
 voyais, dans les actions vicieuses et dans les injustices, que je lisais
@@ -390,9 +214,9 @@ chercheraient à me pousser dans l'abîme. Guillaume et Justine ont
 été assassinés, et le meurtrier échappe; il reste dans le monde,
 libre? et peut-être respecté. Je serais condamnée à mourir sur
 l'échafaud pour les mêmes crimes, que je ne voudrais pas changer de
-sort avec un être semblable».</p>
+sort avec un être semblable».
 
-<p>J'écoutai ce discours dans la plus extrême agitation. J'étais le
+J'écoutai ce discours dans la plus extrême agitation. J'étais le
 véritable meurtrier, non par le fait, mais par l'effet. Élisabeth
 remarqua facilement mon angoisse, prit ma main avec bonté, et me dit:
 «Mon bien cher cousin, il faut vous calmer. Dieu sait combien j'ai
@@ -401,9 +225,9 @@ malheureuse que vous. Il y a, dans votre figure, une expression de
 désespoir, et quelquefois de vengeance, qui me fait trembler. Soyez
 calme, mon cher Victor; je sacrifierai ma vie pour votre repos. Nous
 serons certainement heureux au sein de notre pays natal, et loin du
-monde, qui pourra troubler notre tranquillité»?</p>
+monde, qui pourra troubler notre tranquillité»?
 
-<p>En parlant ainsi, elle versait des larmes, et semblait se refuser aux
+En parlant ainsi, elle versait des larmes, et semblait se refuser aux
 consolations mêmes qu'elle me donnait; mais, en même temps, elle
 sourit, afin d'écarter le sombre nuage qui m'entourait. Mon père, à
 qui l'expression des malheurs, empreinte sur mon visage, ne semblait que
@@ -417,9 +241,9 @@ Ernest ne la connaissaient pas; et tous deux avaient souvent témoigné
 un vif désir de voir un endroit, dont on leur avait dépeint les
 merveilles et la magnificence. Nous partîmes de Genève, pour cette
 tournée, vers le milieu du mois d'août, c'est-à-dire, près de deux
-mois après la mort de Justine.</p>
+mois après la mort de Justine.
 
-<p>Le temps était singulièrement beau; et, si mon chagrin eut été de
+Le temps était singulièrement beau; et, si mon chagrin eut été de
 nature à se dissiper par quelque distraction, l'excursion que nous
 avions entreprise, aurait certainement eu le résultat que mon père se
 proposait. Je ne pus néanmoins m'empêcher d'être touché de la
@@ -432,9 +256,9 @@ d'Arve, dont nous suivions le cours, se refermer sur nous par degrés;
 et, au coucher du soleil, nous nous trouvâmes entourés, de tous
 côtés, d'immenses montagnes et de précipices; nous entendions la
 rivière rouler avec fracas parmi les rochers, et les cascades jaillir
-bruyamment autour de nous.</p>
+bruyamment autour de nous.
 
-<p>Le lendemain, nous continuâmes notre voyage sur des mules. Plus nous
+Le lendemain, nous continuâmes notre voyage sur des mules. Plus nous
 nous élevions, plus l'aspect de la vallée était magnifique et
 enchanteur. Les châteaux en ruine, suspendus sur les précipices, des
 montagnes couvertes de pins, l'Arve impétueux, les hameaux qu'on voyait
@@ -442,9 +266,9 @@ de tous côtés parmi les arbres, tout formait une scène d'une beauté
 singulière. Elle paraissait plus belle et plus sublime, vue du côté
 des Alpes, dont la cime et les pyramides blanches et brillantes
 s'élevaient au-dessus de nous, et semblaient appartenir à une autre
-terre habitée par une autre race d'hommes.</p>
+terre habitée par une autre race d'hommes.
 
-<p>Nous passâmes le pont de Pélissier; là, le ravin que forme la
+Nous passâmes le pont de Pélissier; là, le ravin que forme la
 rivière s'ouvrit devant nous, et nous nous mimes à gravir la montagne
 qui le domine. Bientôt après nous entrâmes dans la vallée de
 Chamouny, plus merveilleuse et plus sublime, mais non aussi belle et
@@ -456,9 +280,9 @@ tomber avec un bruit semblable au roulement du tonnerre; nous pouvions
 même distinguer l'espèce de fumée qu'elles laissaient sur leur
 passage. Le mont Blanc, le suprême et magnifique mont Blanc, s'élevait
 du milieu des pics dont il est entouré, et de sa cime terrible dominait
-toute la vallée.</p>
+toute la vallée.
 
-<p>Pendant ce voyage, j'étais quelquefois avec Élisabeth, occupé à lui
+Pendant ce voyage, j'étais quelquefois avec Élisabeth, occupé à lui
 faire remarquer les différentes beautés de la scène. Souvent je
 retenais ma mule en arrière, pour me livrer à mes douloureuses
 réflexions. D'autres fois, je poussais l'animal au-devant de mes
@@ -468,24 +292,21 @@ et me jetais sur le gazon, accablé par l'horreur et le désespoir. Nous
 arrivâmes à Chamouny à huit heures du soir. Mon père et Élisabeth
 étaient très-fatigués; Ernest, qui nous accompagnait, était content
 et dispos. La seule chose qui le contrariât dans son plaisir, était le
-vent du sud, et la pluie, dont ce vent semblait être le précurseur.</p>
+vent du sud, et la pluie, dont ce vent semblait être le précurseur.
 
-<p>Nous nous retirâmes de bonne heure dans nos appartements. Je ne sais si
+Nous nous retirâmes de bonne heure dans nos appartements. Je ne sais si
 ma famille trouva le sommeil, du moins je ne dormis pas. Je restai
 plusieurs heures à ma fenêtre, à observer la pâle lueur qui
 éclairait le sommet du mont Blanc, et à écouter le bruit de l'Arve,
-qui coulait sous ma fenêtre.</p>
+qui coulait sous ma fenêtre.
 
 
 
 
-<hr class="r5" />
+CHAPITRE IX
 
 
-<h4><a id="CHAPITRE_IX">CHAPITRE IX</a></h4>
-
-
-<p>Le lendemain, malgré les prédictions de nos guides, le temps fut beau,
+Le lendemain, malgré les prédictions de nos guides, le temps fut beau,
 mais nuageux. La source de l'Arveyron fut le premier but de notre
 curiosité: puis, nous parcourûmes la vallée jusqu'au soir. Ces
 scènes sublimes et magnifiques étaient la plus grande consolation que
@@ -497,9 +318,9 @@ le soir, fatigué, mais moins malheureux, et je pus causer avec ma
 famille, plus gaîment qu'il ne m'était arrivé depuis quelque temps.
 Mon père était satisfait, et Élisabeth pleine de joie: «Mon cher
 cousin, dit-elle, vous voyez quel bonheur vous répandez dès que vous
-êtes heureux; ne succombez plus à la tristesse».</p>
+êtes heureux; ne succombez plus à la tristesse».
 
-<p>Le jour suivant, vers le matin, la pluie tomba par torrents, et d'épais
+Le jour suivant, vers le matin, la pluie tomba par torrents, et d'épais
 brouillards cachèrent la cime des montagnes. Je me levai de bonne
 heure, avec un sentiment de mélancolie extraordinaire. Le temps me
 causait une impression dont je n'étais pas le maître: je revins à mes
@@ -517,9 +338,9 @@ ténèbres, dans un séjour de lumière et de joie. La vue des beautés
 de la nature avait toujours l'effet d'élever mon esprit, et de me faire
 oublier les soucis passagers de la vie. Je connaissais le chemin: je
 résolus d'aller seul; je n'aurais voulu emmener personne; car la
-grandeur solitaire de la scène aurait cessé d'exister.</p>
+grandeur solitaire de la scène aurait cessé d'exister.
 
-<p>La pente est escarpée, mais la route est coupée de petits détours
+La pente est escarpée, mais la route est coupée de petits détours
 sans fin, au moyen desquels on peut gravir la direction perpendiculaire
 de la montagne. C'est une scène effrayante de désolation. On voit dans
 mille endroits les traces de l'avalanche d'hiver: la terre est jonchée
@@ -541,19 +362,18 @@ glorifie-t-il d'avoir des sensations supérieures à celles de la brute,
 puisqu'elles ne servent qu'à multiplier ses besoins? Si nous étions
 bornés à éprouver la faim, la soif et le désir, nous serions presque
 libres; mais nous sommes émus par le moindre vent, par un mot prononcé
-au hasard, ou par le souvenir que réveille ce mot.</p>
+au hasard, ou par le souvenir que réveille ce mot.
 
 
-<blockquote>
-<p>Voulons-nous nous reposer? un rêve a le pouvoir d'agiter notre sommeil.
+Voulons-nous nous reposer? un rêve a le pouvoir d'agiter notre sommeil.
 Voulons-nous quitter le lit? une seule pensée peut troubler la
 journée. Sentir, concevoir, ou raisonner; rire ou pleurer; s'abîmer
 dans le malheur, ou bannir les soucis, n'est qu'une seule et même
 chose; car il y a une fin, ou au chagrin, ou à la joie. Les jours ne
-peuvent se ressembler; rien ne peut durer; tout est variable!</p></blockquote>
+peuvent se ressembler; rien ne peut durer; tout est variable!
 
 
-<p>Il était presque midi lorsque j'arrivai au sommet de la montagne. Je
+Il était presque midi lorsque j'arrivai au sommet de la montagne. Je
 m'assis quelque temps sur le rocher qui domine la mer de glace. Elle
 était couverte de brouillards; les montagnes qui l'entourent en
 étaient également voilées. Dans ce moment, une brise dissipa le
@@ -572,9 +392,9 @@ parmi les nuages. Mon cœur, qui, auparavant, était plein de tristesse,
 éprouva alors une sorte de joie, et je m'écriai: «Esprits errants,
 s'il est vrai que vous soyez errants, et que vous ne reposiez pas dans
 vos lits étroits, accordez-moi ce faible bonheur, ou enlevez-moi aux
-plaisir de la vie pour me porter parmi vous».</p>
+plaisir de la vie pour me porter parmi vous».
 
-<p>À ces mots, je vis tout à coup un homme à quelque distance, qui
+À ces mots, je vis tout à coup un homme à quelque distance, qui
 s'avançait vers moi avec une rapidité surnaturelle. Il franchissait
 les crevasses de glace, parmi lesquelles j'avais marché avec
 précaution; il s'approcha, et me parut d'une stature qui excédait
@@ -589,15 +409,15 @@ perversité, et portait en même temps l'empreinte d'une laideur trop
 horrible, pour être supportable aux yeux des hommes. Mais je la
 remarquai à peine; la colère et la haine m'avaient d'abord privé de
 l'usage de la parole, et je ne la recouvrai que pour l'accabler de
-l'expression de ma fureur, de ma haine et de mon mépris.</p>
+l'expression de ma fureur, de ma haine et de mon mépris.
 
-<p>«Démon, m'écriai-je, oses-tu venir près de moi? et ne crains-tu pas
+«Démon, m'écriai-je, oses-tu venir près de moi? et ne crains-tu pas
 que je fasse tomber sur ta tête, le poids de ma terrible vengeance?
 Éloigne-toi, vil insecte, ou plutôt demeure, afin que je te réduise
 en poudre!.... Ah! si je pouvais, en terminant ta malheureuse existence,
-rendre à la vie ces victimes que tu as si méchamment immolées»!</p>
+rendre à la vie ces victimes que tu as si méchamment immolées»!
 
-<p>&mdash;«Je m'attendais à cette réception, dit le démon; le monde hait les
+--«Je m'attendais à cette réception, dit le démon; le monde hait les
 malheureux. Combien alors je dois être détesté, moi qui suis plus
 malheureux qu'aucun être vivant! Vous aussi, mon créateur, vous me
 détestez, et me méprisez, moi qui vous dois l'existence, et à qui
@@ -607,17 +427,17 @@ la vie? Faites votre devoir envers moi; je ferai le mien envers vous et
 le reste de l'espèce humaine. Si vous consentez à mes conditions, je
 ne troublerai ni vous, ni elle; mais si vous vous y refusez, je
 rassasierai la mort, jusqu'à ce qu'elle regorge du sang de vos derniers
-amis».</p>
+amis».
 
-<p>&mdash;«Monstre abhorré! Démon que tu es! les tortures de l'enfer sont une
+--«Monstre abhorré! Démon que tu es! les tortures de l'enfer sont une
 vengeance trop douce pour tes crimes. Misérable démon! tu me reproches
 de t'avoir créé; viens donc, que j'arrache l'existence que je t'ai si
-imprudemment donnée».</p>
+imprudemment donnée».
 
-<p>Ma rage était au comble: je m'élançai vers lui, poussé par tous les
-sentiments qui peuvent animer un homme, contre l'existence d'un autre.</p>
+Ma rage était au comble: je m'élançai vers lui, poussé par tous les
+sentiments qui peuvent animer un homme, contre l'existence d'un autre.
 
-<p>Il m'échappa sans peine, et me dit: «Calmez-vous! Je vous engage à
+Il m'échappa sans peine, et me dit: «Calmez-vous! Je vous engage à
 m'écouter, avant de donner cours à votre haine contre ma tête
 maudite. N'ai-je pas assez souffert, sans que vous cherchiez à aggraver
 mon malheur! Quoique la vie ne soit qu'une accumulation de tourments,
@@ -635,13 +455,13 @@ Adam; mais je suis plutôt l'ange déchu, que vous privez du bonheur,
 sans que j'aie commis aucun forfait. Partout je vois le bonheur, dont je
 suis seul irrévocablement exclus. J'étais bienveillant et bon; le
 malheur m'a rendu semblable au génie du mal. Rendez-moi heureux, et je
-pratiquerai encore la vertu».</p>
+pratiquerai encore la vertu».
 
-<p>&mdash;«Éloigne-toi, je ne veux pas t'entendre. Il ne peut y avoir rien de
+--«Éloigne-toi, je ne veux pas t'entendre. Il ne peut y avoir rien de
 commun entre toi et moi; nous sommes ennemis. Éloigne-toi, ou essayons
-nos forces dans un combat, où l'un de nous devra succomber».</p>
+nos forces dans un combat, où l'un de nous devra succomber».
 
-<p>&mdash;«Comment pourrais-je vous émouvoir? Rien ne vous portera à jeter un
+--«Comment pourrais-je vous émouvoir? Rien ne vous portera à jeter un
 regard favorable sur votre créature, qui implore votre bonté et votre
 compassion. Croyez-moi, Frankenstein: j'étais porté au bien; mon âme
 respirait l'amour de l'humanité: mais ne suis-je pas isolé,
@@ -668,17 +488,17 @@ le droit de parler pour leur propre défense, avant d'être condamnés.
 vous détruiriez avec joie votre propre créature. Ah! louez
 l'éternelle justice de l'homme! Cependant, je ne vous demande pas de
 m'épargner: écoutez-moi; et alors, si vous pouvez, et si vous le
-voulez, détruisez l'ouvrage de vos mains».</p>
+voulez, détruisez l'ouvrage de vos mains».
 
-<p>&mdash;«Pourquoi me rappelles-tu des circonstances dont la pensée me fait
+--«Pourquoi me rappelles-tu des circonstances dont la pensée me fait
 frissonner, et que j'ai créées moi-même pour mon malheur? Maudit soit
 le jour, Démon exécrable, où tu vis, pour la première fois, la
 lumière! Maudites soient les mains qui t'ont formé! Malédiction sur
 moi-même! Tu m'as rendu malheureux au-dessus de toute expression. Tu ne
 m'as pas laissé la force de voir si je suis juste ou injuste envers
-toi: Éloigne-toi! délivre-moi de la vue de ta forme détestée».</p>
+toi: Éloigne-toi! délivre-moi de la vue de ta forme détestée».
 
-<p>&mdash;«Je puis vous en délivrer, mon créateur, dit-il, en plaçant,
+--«Je puis vous en délivrer, mon créateur, dit-il, en plaçant,
 devant mes yeux, ses mains que je repoussai avec violence; ainsi, j'ôte
 à votre vue ce que vous abhorrez. Vous pouvez encore m'écouter, et
 m'accorder votre pitié: je vous la demande, au nom des vertus que j'ai
@@ -690,9 +510,9 @@ derrière ces précipices couverts de neige, et éclairer un autre
 monde, vous aurez entendu mon histoire, et vous pourrez vous décider.
 Il dépend de vous que je quitte à jamais le voisinage de l'homme, et
 que je mène une vie innocente, ou que je devienne le fléau de vos
-semblables, et l'auteur de votre prompte ruine».</p>
+semblables, et l'auteur de votre prompte ruine».
 
-<p>À ces mots, il marcha à travers la glace: je le suivis. Mon cœur
+À ces mots, il marcha à travers la glace: je le suivis. Mon cœur
 était gonflé, et je ne lui répondis pas; mais, en avançant je pesai
 les différents motifs dont il s'était servi, et me déterminai du
 moins à écouter son récit. Cette résolution, dans laquelle la
@@ -707,18 +527,15 @@ motifs m'engagèrent à consentir à sa demande. Nous nous mîmes donc
 froid; la pluie recommençait à tomber: nous entrâmes dans la cabane;
 le Démon avec un air d'allégresse, moi le cœur oppressé et l'esprit
 abattu. J'avais consenti à l'écouter; je m'assis auprès du feu
-qu'avait allumé mon odieux compagnon: il commença ainsi son histoire.</p>
+qu'avait allumé mon odieux compagnon: il commença ainsi son histoire.
 
 
 
 
-<hr class="r5" />
+CHAPITRE X
 
 
-<h4><a id="CHAPITRE_X">CHAPITRE X</a></h4>
-
-
-<p>«J'ai beaucoup de peine à me rappeler les premiers moments de mon
+«J'ai beaucoup de peine à me rappeler les premiers moments de mon
 existence; tous les événements de cette époque ne se retracent à ma
 mémoire qu'avec confusion et en désordre. Une étrange multiplicité
 de sensations me saisit; je vis, je touchai, j'entendis et je sentis à
@@ -747,9 +564,9 @@ couvert de quelques hardes; mais elles ne pouvaient suffire pour me
 protéger contre les rosées de la nuit. J'étais un malheureux sans
 appui, et digne de pitié; je ne connaissais rien et ne pouvais rien
 distinguer; mais, dominé par le chagrin qui me gagnait de toutes les
-manières, je m'assis et pleurai.</p>
+manières, je m'assis et pleurai.
 
-<p>»Bientôt une douce lumière brilla dans les cieux, et me fit éprouver
+»Bientôt une douce lumière brilla dans les cieux, et me fit éprouver
 un sentiment de plaisir. Je me levai et vis un astre rayonnant sortir du
 milieu des arbres. Je contemplai avec une sorte d'étonnement cet astre
 dont la marche était lente, mais dont la lumière éclairait ma route,
@@ -759,9 +576,9 @@ couvris, et je m'assis à terre. Aucune idée distincte n'occupait mon
 esprit; tout était confus. Je sentais la faim, la soif, la lumière et
 l'obscurité; d'innombrables sons frappaient mes oreilles, et des
 parfums divers mon odorat. Le seul objet que je pusse distinguer était
-la brillante lune, sur laquelle je fixai mes yeux avec plaisir.</p>
+la brillante lune, sur laquelle je fixai mes yeux avec plaisir.
 
-<p>»Les jours et les nuits s'étaient déjà succédés plusieurs fois, et
+»Les jours et les nuits s'étaient déjà succédés plusieurs fois, et
 l'astre de la nuit était considérablement diminué, lorsque je
 commençai à démêler mes sensations les unes des autres. Je
 distinguai insensiblement le clair ruisseau où j'étanchais ma soif, et
@@ -775,18 +592,18 @@ qui me couvrait. Tantôt je cherchais à imiter les chants agréables
 des oiseaux, sans pouvoir y réussir; tantôt je voulais exprimer mes
 sensations à ma manière; mais je rendais des sons rudes et
 inarticulés dont j'étais effrayé, alors même que je ne les entendais
-plus.</p>
+plus.
 
-<p>»La lune avait cessé de paraître; mais j'étais encore dans la
+»La lune avait cessé de paraître; mais j'étais encore dans la
 forêt, quand son disque reparut de nouveau moins étendu. Pendant ce
 temps, mes sensations étaient devenues plus nettes, et mon esprit
 recevait chaque jour de nouvelles idées. Mes yeux s'accoutumaient à la
 lumière; je voyais les objets dans leur véritable forme; je distinguai
 l'insecte de l'herbe, et, par degrés, une herbe d'une autre. Le chant
 du passereau me sembla grossier, tandis que celui du merle et de la
-grive était doux et enchanteur.</p>
+grive était doux et enchanteur.
 
-<p>»Un jour que j'étais transi de froid, je trouvai un feu qui avait
+»Un jour que j'étais transi de froid, je trouvai un feu qui avait
 été laissé par quelques mendiants vagabonds, et dont la chaleur me
 réchauffa agréablement. Dans ma joie, je mis la main sur les braises
 ardentes, mais je la retirai sur-le-champ en laissant échapper un cri
@@ -803,9 +620,9 @@ La nuit vint, et le sommeil avec elle; j'eus la plus grande crainte que
 mon feu ne s'éteignit; je le couvris avec soin de bois sec et de
 feuilles, au-dessus desquelles je plaçai des branches humides;
 j'étendis alors mon manteau, me couchai sur la terre, et me livrai au
-sommeil.</p>
+sommeil.
 
-<p>»Réveillé dès le matin, j'eus pour premier soin de visiter le feu.
+»Réveillé dès le matin, j'eus pour premier soin de visiter le feu.
 Je ne l'eus pas plutôt mis à découvert, qu'un léger vent l'enflamma
 bientôt. Ce fut une nouvelle remarque pour moi; je fis avec des
 branches une espèce d'éventail pour rallumer les braises, si elles
@@ -817,9 +634,9 @@ laissés, étaient cuits, et avaient bien meilleur goût que les graines
 que je cueillais aux arbres. J'essayai donc de préparer ma nourriture
 de la même manière, en la plaçant sur les charbons embrasés. Je vis
 que les graines étaient dépouillées par cette opération, et que les
-noix et les racines en étaient bien meilleures.</p>
+noix et les racines en étaient bien meilleures.
 
-<p>»Cependant, la nourriture devint rare, au point que je passais souvent
+»Cependant, la nourriture devint rare, au point que je passais souvent
 la journée entière à chercher vainement quelques glands pour assouvir
 ma faim. Frappé de cette observation, je résolus de quitter le lieu
 que j'avais habité, pour en chercher un où je pourrais plus facilement
@@ -834,9 +651,9 @@ jours à errer de cette manière, et enfin je découvris la campagne. La
 neige était tombée en abondance pendant la nuit précédente, et les
 champs étaient d'une blancheur uniforme. Cette vue me parut triste, et
 je sentis mes pieds glacés par la substance froide et humide qui
-couvrait la terre.</p>
+couvrait la terre.
 
-<p>»Sept heures venaient de sonner: j'étais impatient de pourvoir à ma
+»Sept heures venaient de sonner: j'étais impatient de pourvoir à ma
 nourriture et de trouver un abri. Enfin, j'aperçus une petite cabane
 sur un terrain élevée et qui avait sans doute été bâtie pour la
 commodité de quelque berger. C'était un spectacle nouveau pour moi:
@@ -853,9 +670,9 @@ délicieuse et aussi belle, que semblait le Pandémonium aux génies de
 l'Enfer, après leurs souffrances dans le lac de feu. Je dévorai avec
 joie les restes du déjeuner du berger, qui consistait en pain, en
 fromage, en lait et en vin; mais sans être flatté de ce dernier objet;
-accablé par la fatigue, je m'étendis sur la paille et je m'endormis.</p>
+accablé par la fatigue, je m'étendis sur la paille et je m'endormis.
 
-<p>»Il était midi quand je me réveillai. Excité par la chaleur du
+»Il était midi quand je me réveillai. Excité par la chaleur du
 soleil, qui se réfléchissait avec éclat sur la terre couverte de
 neige, je me déterminai à recommencer mes voyages; je pris soin de
 placer les restes du déjeuner du paysan dans une besace que je trouvai;
@@ -879,13 +696,13 @@ qui me servait d'asile était construit en bois; mais il était si bas,
 que je ne pouvais m'y tenir debout qu'avec peine. Le sol n'était pas
 recouvert d'un plancher, mais il était très-sec. J'avais l'avantage de
 pouvoir me garantir dans cette enceinte de la neige et de la pluie,
-malgré le vent qui y pénétrait par d'innombrables fentes.</p>
+malgré le vent qui y pénétrait par d'innombrables fentes.
 
-<p>»Dans cette retraite, je m'étendis à terre, heureux de l'avoir
+»Dans cette retraite, je m'étendis à terre, heureux de l'avoir
 trouvée, quelque mauvaise qu'elle fût, contre l'intempérie de la
-saison, et encore plus contre la barbarie des hommes.</p>
+saison, et encore plus contre la barbarie des hommes.
 
-<p>»Dès le matin, je sortis de ma cabane pour voir la chaumière
+»Dès le matin, je sortis de ma cabane pour voir la chaumière
 adjacente, et examiner si je pouvais rester dans l'habitation que
 j'avais trouvée. Elle était adossée à la chaumière, et entourée,
 sur les côtés qui étaient exposés, d'une étable à cochons et d'une
@@ -894,9 +711,9 @@ par laquelle j'étais entré. Je couvris alors de pierres et de bois
 toutes les crevasses par lesquelles je pouvais être aperçu, mais de
 manière à pouvoir les déranger dans l'occasion pour sortir: je ne
 recevais la lumière que par l'étable, mais je n'avais pas besoin d'en
-recevoir davantage.</p>
+recevoir davantage.
 
-<p>»Je venais de disposer ainsi mon habitation, et de la garnir de paille
+»Je venais de disposer ainsi mon habitation, et de la garnir de paille
 fraîche, quand je vis de loin la figure d'un homme. Je rentrai; car je
 me souvenais trop bien du traitement que j'avais éprouvé la veille,
 pour me mettre en son pouvoir. Cependant, j'avais pourvu à ma
@@ -904,9 +721,9 @@ subsistance pour ce jour-là, en enlevant un morceau de pain grossier;
 je m'étais emparé aussi d'une coupe, afin de boire, plus commodément
 que dans ma main, l'eau pure qui coulait auprès de ma retraite. Du
 reste, j'étais à l'abri de l'humidité, et je pouvais même éprouver
-quelque chaleur dans le voisinage de la cheminée de la chaumière.</p>
+quelque chaleur dans le voisinage de la cheminée de la chaumière.
 
-<p>»Avec ces précautions, je résolus de résider dans cette cabane,
+»Avec ces précautions, je résolus de résider dans cette cabane,
 jusqu'à ce qu'une nouvelle circonstance me détournât de cette
 résolution. C'était vraiment un paradis, en comparaison de la sombre
 forêt, ma première résidence, des branches à travers lesquelles je
@@ -927,9 +744,9 @@ de mélancolie, prit le seau sur la tête de la jeune fille, et le porta
 lui-même dans la chaumière. Elle le suivit, et ils disparurent. Peu
 après, je vis le jeune homme, quelques outils à la main, traverser le
 champ derrière la chaumière. La jeune fille avait d'autres soins,
-tantôt dans la maison, tantôt dans la basse-cour.</p>
+tantôt dans la maison, tantôt dans la basse-cour.
 
-<p>»En examinant mon habitation, je reconnus qu'une des fenêtres de la
+»En examinant mon habitation, je reconnus qu'une des fenêtres de la
 chaumière en avait d'abord occupé une partie, mais les panneaux
 avaient été fermés avec du bois. Il y avait cependant dans un de ces
 panneaux, une petite fente presqu'imperceptible, et par laquelle l'œil
@@ -954,9 +771,9 @@ des sensations d'une nature particulière et accablante: c'était un
 mélange de peine et de plaisir, tel que je n'en avais encore jamais
 éprouvé, soit par la faim ou le froid, soit par la chaleur ou le
 plaisir de manger. J'étais incapable de soutenir ces émotions: je
-quittai la fenêtre.</p>
+quittai la fenêtre.
 
-<p>»Bientôt après le jeune homme revint, portant du bois sur ses
+»Bientôt après le jeune homme revint, portant du bois sur ses
 épaules. La jeune fille le reçut à la porte, aida à le décharger de
 son fardeau, apporta quelques morceaux de bois, et les mit au feu; le
 jeune homme l'amena dans un coin de la chaumière, et lui montra un
@@ -966,9 +783,9 @@ qu'elle plaça dans l'eau et ensuite sur le feu. Elle se remit ensuite
 à son ouvrage, pendant que le jeune homme alla dans le jardin, et parut
 occupé à bêcher la terre et à planter des racines. Une heure après,
 la jeune femme alla le rejoindre, et ils rentrèrent ensemble dans la
-chaumière.</p>
+chaumière.
 
-<p>»Pendant ce temps, le vieillard était resté pensif; mais à
+»Pendant ce temps, le vieillard était resté pensif; mais à
 l'approche de ses compagnons il prit un air plus gai. Ils se mirent à
 table: le repas fut promptement terminé. La jeune femme fut encore
 occupée à arranger la chaumière; le vieillard se promena en dehors au
@@ -980,9 +797,9 @@ figure du jeune homme était douce et gracieuse, et ses traits de la
 plus belle régularité; cependant ses yeux et son attitude exprimaient
 le plus profond chagrin et le désespoir. Le vieillard rentra dans la
 chaumière; et le jeune homme, avec des outils différents de ceux dont
-il s'était servi le matin, dirigea ses pas à travers les champs.</p>
+il s'était servi le matin, dirigea ses pas à travers les champs.
 
-<p>»La nuit arriva bientôt; mais à mon grand étonnement, je vis que les
+»La nuit arriva bientôt; mais à mon grand étonnement, je vis que les
 habitants de la chaumière avaient un moyen de prolonger le jour par
 l'usage des lumières; et je fus charmé de voir que le coucher du
 soleil ne mettait pas fin au plaisir que j'éprouvais à observer mes
@@ -993,35 +810,32 @@ m'avaient enchanté le matin. Dès qu'il eût cessé, le jeune homme se
 mit, non pas à chanter; mais à prononcer des sons monotones, qui ne
 ressemblaient nullement à l'harmonie de l'instrument du vieillard, ni
 aux chants des oiseaux; je sus depuis qu'il lisait à haute voix, mais
-alors je ne connaissais pas la science des mots ou des lettres.</p>
+alors je ne connaissais pas la science des mots ou des lettres.
 
-<p>»La famille donna quelques moments à ces différentes occupations,
+»La famille donna quelques moments à ces différentes occupations,
 éteignit ses lumières, et se retira, suivant mes conjectures, pour se
-livrer au repos.</p>
+livrer au repos.
 
 
 
 
-<hr class="r5" />
+CHAPITRE XI
 
 
-<h4><a id="CHAPITRE_XI">CHAPITRE XI</a></h4>
-
-
-<p>»Je m'étendis sur la paille sans pouvoir dormir. Je pensais à tout ce
+»Je m'étendis sur la paille sans pouvoir dormir. Je pensais à tout ce
 dont j'avais été témoin pendant le jour. J'étais surtout frappé des
 manières douces de ces gens; et je désirais aller les trouver, mais je
 n'osais m'y résoudre. Je me souvenais trop bien du traitement que
 j'avais éprouvé le soir précédent de la part des barbares
 villageois, et je me déterminai, quelque fût la conduite que je dusse
 tenir par la suite, à rester tranquille dans ma cabane, à observer, et
-à essayer de découvrir les motifs qui dirigeaient leurs actions.</p>
+à essayer de découvrir les motifs qui dirigeaient leurs actions.
 
-<p>»Les habitants de la chaumière se levèrent le lendemain matin avant
+»Les habitants de la chaumière se levèrent le lendemain matin avant
 le soleil. La jeune femme arrangea la chaumière et prépara à manger;
-le jeune homme partit après le premier repas.</p>
+le jeune homme partit après le premier repas.
 
-<p>»Cette journée se passa de même que la précédente. Le jeune homme
+»Cette journée se passa de même que la précédente. Le jeune homme
 était constamment occupé au dehors, et la jeune fille à différents
 travaux dans l'intérieur: Le vieillard, que je reconnus bientôt
 aveugle, passait ses heures de loisir avec son instrument, ou en
@@ -1029,9 +843,9 @@ contemplation. Rien ne pouvait surpasser l'amour et le respect, que les
 jeunes habitants de la chaumière montraient envers leur vénérable
 compagnon. Ils lui rendaient avec grâce tous les petits services
 d'affection et de devoir; et ils en étaient récompensés par son
-bienveillant sourire.</p>
+bienveillant sourire.
 
-<p>»Ils n'étaient pas entièrement heureux. Le jeune homme et sa compagne
+»Ils n'étaient pas entièrement heureux. Le jeune homme et sa compagne
 se retiraient souvent à l'écart, et avaient l'air de pleurer. Je ne
 connaissais pas le motif de leur malheur; mais j'en étais profondément
 affecté. Si ces aimables créatures étaient malheureuses, il était
@@ -1046,9 +860,9 @@ conversation l'un de l'autre, en échangeant chaque jour des regards
 d'affection et de bonté. Que voulaient dire leurs larmes?
 Exprimaient-elles réellement la douleur? Je ne pus d'abord résoudre
 ces questions; mais une attention suivie et le temps m'expliquèrent
-beaucoup de choses qui paraissaient d'abord énigmatiques.</p>
+beaucoup de choses qui paraissaient d'abord énigmatiques.
 
-<p>»Il se passa beaucoup de temps avant que je découvrisse l'unique cause
+»Il se passa beaucoup de temps avant que je découvrisse l'unique cause
 de l'inquiétude de cette aimable famille; c'était la pauvreté dont
 ils avaient à supporter toute l'horreur. Ils n'avaient d'autre
 nourriture que les végétaux de leur jardin, et le lait d'une vache,
@@ -1056,28 +870,28 @@ qui en avait fort peu pendant l'hiver, et que ses maîtres pouvaient à
 peine soutenir. Il leur est arrivé souvent, je crois, de souffrir des
 atteintes poignantes de la faim, surtout aux deux plus jeunes habitants
 de la chaumière, qui, plusieurs fois, plaçaient à manger devant le
-vieillard, sans se rien réserver.</p>
+vieillard, sans se rien réserver.
 
-<p>»Ce trait de bonté me toucha sensiblement. J'avais l'habitude, pendant
+»Ce trait de bonté me toucha sensiblement. J'avais l'habitude, pendant
 la nuit, de dérober une partie de leurs provisions pour ma propre
 consommation; mais, touché de la peine que je faisais à ces
 excellentes gens, je cessai, et me nourris de graines, de noix, et de
-racines, que je cueillais dans un bois voisin.</p>
+racines, que je cueillais dans un bois voisin.
 
-<p>»Je découvris aussi d'autres moyens de les aider dans leurs travaux.
+»Je découvris aussi d'autres moyens de les aider dans leurs travaux.
 Je vis que le jeune homme passait une grande partie de ses journées à
 ramasser du bois pour le feu de la famille; pendant la nuit je prenais
 souvent ses outils, dont je connus bientôt l'usage, et je rapportais
-assez de bois pour la consommation de plusieurs jours.</p>
+assez de bois pour la consommation de plusieurs jours.
 
-<p>»Je me souviens qu'à la première fois, la jeune femme en ouvrant la
+»Je me souviens qu'à la première fois, la jeune femme en ouvrant la
 porte le matin, parut très-étonnée de voir une grande pile de bois.
 Elle dit quelques mots à haute voix, et le jeune homme accourut, en
 exprimant aussi sa surprise. Je remarquai, avec plaisir, qu'il n'alla
 pas à la forêt ce jour là, mais qu'il le passa à réparer la
-chaumière et à cultiver le jardin.</p>
+chaumière et à cultiver le jardin.
 
-<p>»Peu à peu, je fis une découverte d'un intérêt encore plus grand.
+»Peu à peu, je fis une découverte d'un intérêt encore plus grand.
 Je vis que ces personnes avaient une manière de se communiquer leurs
 idées et leurs sentiments par des sons articulés. Je m'aperçus que
 leurs paroles étaient suivies du plaisir ou de la peine, du sourire ou
@@ -1090,17 +904,17 @@ visibles, je ne pouvais trouver aucun moyen d'éclaircir le mystère de
 leur rapport. Cependant, à force de persévérance, et après avoir vu
 dans ma cabane plusieurs phases de la lune, je découvris les noms qui
 convenaient à quelques-uns des objets les plus familiers du discours:
-j'appris et appliquai les mots <i>feu, lait y pain</i> et <i>bois.</i> J'appris
+j'appris et appliquai les mots _feu, lait y pain_ et _bois._ J'appris
 aussi les noms des habitants de la cabane eux-mêmes. Le jeune homme et
 sa compagne avaient chacun plusieurs noms; mais le vieillard n'avait que
-celui de <i>père.</i> La jeune fille s'appelait <i>sœur</i> ou <i>Agathe</i>, et le
-jeune homme <i>Félix, frère</i> ou <i>fils.</i> Je ne saurais décrire le
+celui de _père._ La jeune fille s'appelait _sœur_ ou _Agathe_, et le
+jeune homme _Félix, frère_ ou _fils._ Je ne saurais décrire le
 plaisir que j'éprouvai en connaissant les idées appropriées à chacun
 de ces sons, et en parvenant à les prononcer. Je distinguai plusieurs
 autres mots, sans pouvoir les comprendre ou les appliquer, tels que
-<i>bon, très-cher, malheureux.</i></p>
+_bon, très-cher, malheureux._
 
-<p>»Je passai l'hiver ainsi. Les habitudes douces et la beauté des
+»Je passai l'hiver ainsi. Les habitudes douces et la beauté des
 habitants de la chaumière me les rendaient chers. Étaient-ils dans
 l'affliction, je me sentais affligé. Étaient-ils contents, je
 sympathisais avec eux. Je vis peu d'autres personnes que celles dont je
@@ -1117,9 +931,9 @@ ton étaient plus gais après les exhortations paternelles. Il n'en
 groupe; et il me parut, même malgré l'inexpérience de mes sens, avoir
 plus souffert que ses amis. Mais si son air était plus chagrin, sa voix
 était plus joyeuse que celle de sa sœur, surtout quand il s'adressait
-au vieillard.</p>
+au vieillard.
 
-<p>»Je pourrais rapporter des exemples sans nombre, qui ne sont pas
+»Je pourrais rapporter des exemples sans nombre, qui ne sont pas
 importants, mais qui peignent le caractère de ces aimables habitants.
 Au milieu de la pauvreté et du besoin, Félix aimait à porter à sa
 sœur la première petite fleur blanche qui perçait la neige. Le matin
@@ -1131,9 +945,9 @@ invisible. Pendant le jour, il travaillait quelquefois pour un fermier
 voisin; du moins je l'ai pensé, en le voyant sortir souvent, et ne
 revenir que pour dîner, et sans porter de bois avec lui. Quelquefois il
 travaillait dans le jardin; mais il y avait peu à faire dans la saison
-de la gelée; alors il lisait pour le vieillard et Agathe.</p>
+de la gelée; alors il lisait pour le vieillard et Agathe.
 
-<p>»Cette lecture m'avait d'abord extrêmement embarrassé; mais, par
+»Cette lecture m'avait d'abord extrêmement embarrassé; mais, par
 degrés, je reconnus qu'il prononçait en lisant les mêmes sons que
 ceux dont il faisait usage en parlant. J'en tirai la conséquence qu'il
 trouvait sur le papier des signes pour des paroles, dont il avait le
@@ -1146,18 +960,18 @@ de me découvrir aux habitants de la chaumière, et par la nécessité
 de n'en faire l'essai qu'après avoir appris leur langage; certain que,
 si je parlais comme eux, je les effrayerais moins de la difformité de
 ma figure, dont j'avais eu connaissance par le contraste que j'avais
-continuellement sous les yeux.</p>
+continuellement sous les yeux.
 
-<p>»J'avais admiré les formes accomplies de mes voisins, leur grâce,
+»J'avais admiré les formes accomplies de mes voisins, leur grâce,
 leur beauté, et leur teint délicat; mais combien je fus effrayé quand
 je me vis dans une eau transparente! Je reculai d'abord, me refusant à
 croire que je me fusse réfléchi dans ce miroir; convaincu enfin que
 j'étais en réalité le monstre qui est devant vous, je fus pénétré
 du plus profond désespoir et de la mortification la plus cruelle.
 Hélas! je ne connaissais pas encore les funestes effets de cette
-difformité!</p>
+difformité!
 
-<p>»Le soleil devint plus chaud, et la lumière du jour plus longue. La
+»Le soleil devint plus chaud, et la lumière du jour plus longue. La
 neige disparut, les arbres cessèrent d'en être couverts, et la terre
 reprit une couleur noire. Dès-lors Félix eut beaucoup d'occupations,
 et ces braves gens ne furent plus exposés à l'horrible famine dont ils
@@ -1165,15 +979,15 @@ et ces braves gens ne furent plus exposés à l'horrible famine dont ils
 grossière, mais abondante; ils mangeaient suivant leurs besoins.
 Plusieurs nouvelles espèces de plantes vinrent dans le jardin qu'ils
 cultivaient; et ces gages de consolation se multipliaient chaque jour à
-mesure que la saison avançait.</p>
+mesure que la saison avançait.
 
-<p>»Le vieillard, appuyé sur son fils, se promenait tous les jours à
+»Le vieillard, appuyé sur son fils, se promenait tous les jours à
 midi, lorsqu'il ne pleuvait pas; car j'entendais dire qu'il pleuvait,
 quand le ciel versait ses eaux. La pluie tombait souvent; mais un vent,
 qui s'élevait, séchait promptement la terre; et la saison devint enfin
-bien plus agréable qu'elle n'avait été.</p>
+bien plus agréable qu'elle n'avait été.
 
-<p>»Mon genre de vie dans la cabane était uniforme. Le matin, je suivais
+»Mon genre de vie dans la cabane était uniforme. Le matin, je suivais
 les mouvements de mes voisins; et dès qu'ils se dispersaient pour leurs
 diverses occupations, je dormais: je passais le reste du jour à
 observer mes amis. Lorsqu'ils s'étaient retirés pour se livrer au
@@ -1184,10 +998,10 @@ balayasse la neige qui était sur leur chemin; je faisais aussi tous les
 autres travaux auxquels j'avais vu Félix se livrer. Je remarquais
 ensuite leur étonnement sur ces travaux exécutés par une main
 invisible; et une ou deux fois, je les entendis dans cette occasion,
-prononcer les mots <i>bon génie, miracle</i>; mais je ne comprenais pas
-alors la signification de ces termes.</p>
+prononcer les mots _bon génie, miracle_; mais je ne comprenais pas
+alors la signification de ces termes.
 
-<p>»Mes pensées devinrent plus actives; j'étais impatient de découvrir
+»Mes pensées devinrent plus actives; j'étais impatient de découvrir
 les motifs et les sentiments de ces aimables créatures; je cherchais à
 savoir pourquoi Félix paraissait si malheureux et Agathe si triste. Je
 croyais, insensé que j'étais! que je pourrais rendre le bonheur à ces
@@ -1199,15 +1013,15 @@ imagination se figurait le moment où je me présenterais devant eux, et
 la réception qu'ils me feraient. Je pensais qu'ils supporteraient
 difficilement le premier abord, mais que, par une conduite douce et des
 paroles conciliantes, je pourrais gagner leur faveur, et ensuite leur
-amour.</p>
+amour.
 
-<p>»Ces pensées me réjouirent et m'animèrent d'une nouvelle ardeur. Je
+»Ces pensées me réjouirent et m'animèrent d'une nouvelle ardeur. Je
 m'appliquai à apprendre à parler. Mes organes étaient rudes, il est
 vrai, mais souples; ma voix ressemblait fort peu à la douce musique de
 leurs intonations, mais elle prononçait avec assez de facilité les
-mots que je comprenais.</p>
+mots que je comprenais.
 
-<p>»Les ondées favorables et la chaleur vivifiante du printemps,
+»Les ondées favorables et la chaleur vivifiante du printemps,
 changèrent beaucoup l'aspect de la terre. Les hommes, qui, avant cette
 métamorphose, avaient paru cachés dans des souterrains, se
 dispersèrent pour s'adonner à différents genres de culture. Les
@@ -1217,36 +1031,33 @@ des dieux, qui, un moment auparavant, était froide, humide, et
 malsaine! Mes esprits étaient transportés par cet aspect enchanteur de
 la nature; le passé fut effacé de ma mémoire, le présent était
 tranquille, et l'avenir s'embellissait des rayons brillants de
-l'espérance, et de mille joies anticipées.</p>
+l'espérance, et de mille joies anticipées.
 
 
 
 
-<hr class="r5" />
+CHAPITRE XII
 
 
-<h4><a id="CHAPITRE_XII">CHAPITRE XII</a></h4>
-
-
-<p>»J'arrive maintenant à la partie la plus intéressante de mon
+»J'arrive maintenant à la partie la plus intéressante de mon
 histoire. Je rapporterai les évènements qui ont bouleversé tous mes
-sentiments, et m'ont fait tel que je suis aujourd'hui.</p>
+sentiments, et m'ont fait tel que je suis aujourd'hui.
 
-<p>»Le printemps s'avançait rapidement; le temps devint beau, et le ciel
+»Le printemps s'avançait rapidement; le temps devint beau, et le ciel
 sans nuages. J'étais surpris que la terre, auparavant déserte et
 triste, fût alors brillante de verdure et des fleurs les plus belles.
 Mes sens étaient charmés et rafraîchis par une infinité d'odeurs
-délicieuses et de vues magnifiques.</p>
+délicieuses et de vues magnifiques.
 
-<p>»Un jour, c'était celui consacré périodiquement au repos par mes
+»Un jour, c'était celui consacré périodiquement au repos par mes
 voisins, le vieillard jouait de la guitare, et ses enfants
 l'écoutaient. Je remarquai sur la figure de Félix une expression de
 mélancolie inconcevable; il soupirait fréquemment. Le père suspendit
 sa musique, et, à son air, je jugeai qu'il demandait à son fils la
 cause de son chagrin: Félix répondit gaîment au vieillard, qui allait
-reprendre son instrument, lorsqu'on entendit frapper à la porte.</p>
+reprendre son instrument, lorsqu'on entendit frapper à la porte.
 
-<p>»C'était une dame à cheval, suivie d'un paysan pour guide. Elle
+»C'était une dame à cheval, suivie d'un paysan pour guide. Elle
 était vêtue de noir, et couverte d'un voile épais de la même
 couleur. Agathe fit une question, à laquelle l'étrangère ne
 répondit, qu'en prononçant d'une voix douce le nom de Félix. Sa voix
@@ -1256,9 +1067,9 @@ voile, et me laissa voir une figure d'une beauté et d'une expression
 angéliques. Ses cheveux étaient d'un noir brillant, et tressés avec
 soin; ses yeux noirs, mais pleins de douceur et de feu; ses traits d'une
 proportion régulière; son teint admirable, et ses joues embellies par
-les grâces.</p>
+les grâces.
 
-<p>»Félix parut transporté de plaisir en la voyant; son visage, d'où le
+»Félix parut transporté de plaisir en la voyant; son visage, d'où le
 chagrin fut banni, exprima sur-le-champ une joie vive, et dont je
 l'aurais à peine cru capable; ses yeux étincelaient; ses joues
 étaient animées par le plaisir; et, dans ce moment, il me parut aussi
@@ -1269,9 +1080,9 @@ distinguer, sa chère Arabe. Elle ne paraissait pas le comprendre, mais
 elle souriait. Il l'aida à descendre de cheval, renvoya son guide, et
 la conduisit dans la chaumière. Une conversation eut lieu entre lui et
 son père. La jeune étrangère se jeta aux pieds du vieillard, et
-voulut baiser sa main; mais il la releva et l'embrassa avec affection.</p>
+voulut baiser sa main; mais il la releva et l'embrassa avec affection.
 
-<p>»Je vis bientôt, que l'étrangère prononçait des sons articulés, et
+»Je vis bientôt, que l'étrangère prononçait des sons articulés, et
 faisait usage d'un langage particulier; mais qu'elle n'était pas plus
 comprise par les habitants de la chaumière, qu'elle ne les comprenait
 elle-même. Ils faisaient beaucoup de signes, que je ne savais pas
@@ -1287,40 +1098,40 @@ tardai pas à voir, au retour fréquent d'un son que l'étrangère
 répétait après eux, qu'elle cherchait à apprendre leur langue, et je
 pensai aussitôt à profiter des mêmes instructions pour le même but.
 L'étrangère apprit dans la première leçon à-peu-près vingt mots
-dont je connaissais déjà la plupart; mais je retins les autres.</p>
+dont je connaissais déjà la plupart; mais je retins les autres.
 
-<p>»À la nuit, Agathe et l'Arabe se retirèrent de bonne heure. En se
+»À la nuit, Agathe et l'Arabe se retirèrent de bonne heure. En se
 séparant de l'étrangère, Félix lui baisa la main, et lui dit: «Bon
 soir, chère Safie». Il resta beaucoup plus long-temps que de coutume,
 à s'entretenir avec son père. Je jugeai que leur aimable hôte, dont
 le nom était sans cesse prononcé, était le sujet de leur
 conversation. Je désirais ardemment les comprendre, j'y employais
-toutes mes facultés; mais je me consumai en vains efforts.</p>
+toutes mes facultés; mais je me consumai en vains efforts.
 
-<p>»Le lendemain matin, Félix alla à son ouvrage; de son côté, Agathe
+»Le lendemain matin, Félix alla à son ouvrage; de son côté, Agathe
 ne négligea aucune de ses occupations ordinaires. Quand elle eut tout
 terminé, l'Arabe s'assit aux pieds du vieillard, prit sa guitare et
 joua quelques airs si beaux et si touchons, qu'ils m'arrachèrent des
 larmes de chagrin et de plaisir à la fois. Elle chantait en modulant sa
 voix en riche cadence, et en l'élevant ou la baissant tour à tour
-comme le rossignol des bois.</p>
+comme le rossignol des bois.
 
-<p>»Elle cessa de chanter, et présenta la guitare à Agathe, qui la
+»Elle cessa de chanter, et présenta la guitare à Agathe, qui la
 refusa d'abord, mais qui finit par jouer un air simple, en
 l'accompagnant des accents de sa voix, aussi doux, mais moins beaux que
 les accords admirables de l'étrangère. Le vieillard paraissait ravi,
 et dit quelques mots qu'Agathe tâcha d'expliquer à Safie, et par
 lesquels il voulait témoigner tout le plaisir qu'il ressentait de sa
-musique.</p>
+musique.
 
-<p>»Les jours se passèrent ensuite aussi tranquillement qu'avant
+»Les jours se passèrent ensuite aussi tranquillement qu'avant
 l'arrivée de l'étrangère; seulement depuis ce moment, la joie avait
 remplacé la tristesse sur le visage de mes amis. Safie était toujours
 gaie et heureuse; elle et moi nous fîmes de rapides progrès dans la
 connaissance de la langue, de sorte qu'en deux mois je commençais à
-comprendre la plupart des mots prononcés par mes protecteurs.</p>
+comprendre la plupart des mots prononcés par mes protecteurs.
 
-<p>»Pendant ce temps, la terre s'était couverte d'herbage, et les
+»Pendant ce temps, la terre s'était couverte d'herbage, et les
 collines verdoyantes étaient parsemées de fleurs innombrables, d'une
 odeur et d'une vue agréables; les étoiles pâlissaient au milieu des
 bois devant la clarté de la lune; le soleil devint plus chaud, les
@@ -1329,20 +1140,20 @@ délicieuses, mais elles étaient devenues beaucoup plus courtes, depuis
 qu'il n'y avait plus qu'un faible intervalle entre le coucher et le
 lever du soleil; car je ne sortais jamais pendant le jour, dans la
 crainte d'éprouver le traitement dont j'avais souffert précédemment,
-dans le premier village où j'étais entré.</p>
+dans le premier village où j'étais entré.
 
-<p>»Mes journées se passaient dans une attention continuelle, afin de
+»Mes journées se passaient dans une attention continuelle, afin de
 savoir plus promptement parler: je puis aussi dire avec quelqu'orgueil,
 que mes progrès furent plus rapides que ceux de l'Arabe, qui comprenait
 fort peu et parlait difficilement, tandis que je comprenais et pouvais
-répéter presque tous les mots que j'entendais.</p>
+répéter presque tous les mots que j'entendais.
 
-<p>»En apprenant à parler, j'appris aussi la science des lettres, qu'on
+»En apprenant à parler, j'appris aussi la science des lettres, qu'on
 enseignait à l'étrangère. C'était pour moi un grand sujet
-d'étonnement et de plaisir.</p>
+d'étonnement et de plaisir.
 
-<p>»Le livre dont Félix se servait pour instruire Safie, était les
-<i>Ruines</i>, ou <i>Méditations sur les Révolutions des Empires</i>, par
+»Le livre dont Félix se servait pour instruire Safie, était les
+_Ruines_, ou _Méditations sur les Révolutions des Empires_, par
 Volney. Je n'aurais pas compris le sens de ce livre, si Félix, en le
 lisant, n'eût donné des explications très-détaillées. Il avait,
 disait-il, fait choix de cet ouvrage, parce que le style déclamatoire
@@ -1355,9 +1166,9 @@ le génie prodigieux et l'activité d'esprit des Grecs, les guerres et
 les vertus admirables des anciens Romains, leur décadence, la chute de
 ce puissant empire, la chevalerie, la chrétienté et les rois. Je
 connus la découverte de l'hémisphère Américain, et je pleurai avec
-Safie sur le malheureux sort de ses premiers habitants.</p>
+Safie sur le malheureux sort de ses premiers habitants.
 
-<p>»Ces récits merveilleux m'inspiraient d'étranges sentiments. Comment
+»Ces récits merveilleux m'inspiraient d'étranges sentiments. Comment
 l'homme était-il si puissant, si vertueux, si grand, et en même temps
 si méchant et si bas? Tantôt il paraissait une véritable émanation
 du mauvais principe; tantôt une conception noble et divine. La grandeur
@@ -1368,16 +1179,16 @@ abjecte que celle de la taupe ou du vermisseau. Je fus long-temps avant
 de concevoir comment un homme pouvait se porter à assassiner son
 semblable, ou même pourquoi il y avait des lois et des gouvernements;
 mais, en apprenant les détails des vices et des meurtres, je cessai
-d'être surpris, et je reculai de dégoût et d'horreur.</p>
+d'être surpris, et je reculai de dégoût et d'horreur.
 
-<p>»Chaque conversation des habitants de la chaumière me présentait
+»Chaque conversation des habitants de la chaumière me présentait
 alors de nouveaux prodiges. Les leçons que Félix donnait à l'Arabe,
 et auxquelles je prêtais toute mon attention, m'expliquèrent
 l'étrange système de la société humaine. J'entendais parler de la
 division des propriétés, de richesses immenses et de pauvreté
-excessive, de rang, de naissance et de noblesse.</p>
+excessive, de rang, de naissance et de noblesse.
 
-<p>»Les mots donnaient lieu aux réflexions. J'appris que les biens les
+»Les mots donnaient lieu aux réflexions. J'appris que les biens les
 plus estimés par vos semblables, étaient une naissance illustre et
 pure avec la richesse. Un seul de ces biens suffisait pour qu'un homme
 fût respecté; mais sans l'un ni l'autre, il était regardé, sauf un
@@ -1393,15 +1204,15 @@ ressentir aucun mal; j'étais enfin d'une taille beaucoup plus élevée
 que celle des hommes. En regardant autour de moi, je ne voyais et
 n'entendais personne qui me ressemblât. En ces moments, je me demandais
 si j'étais un monstre, une difformité que tout le monde fuyait et
-désavouait.</p>
+désavouait.
 
-<p>»Je ne saurais décrire la douleur dans laquelle ces réflexions me
+»Je ne saurais décrire la douleur dans laquelle ces réflexions me
 jetèrent: j'essayais de les éloigner, mais le chagrin s'augmentait
 sans cesse avec l'instruction. Ah! que n'étais-je toujours resté dans
 le bois où j'avais pris naissance, sans connaître ni éprouver
-d'autres sensations que celles de la faim, de la soif et de la chaleur!</p>
+d'autres sensations que celles de la faim, de la soif et de la chaleur!
 
-<p>»De quelle étrange nature est l'instruction! Elle s'attache à
+»De quelle étrange nature est l'instruction! Elle s'attache à
 l'esprit, lorsqu'elle lui a été une fois inculquée, comme le lichen
 au rocher. Je désirais quelquefois bannir toute pensée et tout
 sentiment; mais j'appris qu'il n'y avait qu'un moyen d'étouffer toute
@@ -1414,18 +1225,18 @@ compter parmi mes semblables, sans me satisfaire. Les paroles
 bienveillantes d'Agathe, et le sourire animé de la charmante Arabe,
 n'étaient pas pour moi. Les douces exhortations du vieillard, et la
 conversation vive du bien-aimé Félix, ne s'adressaient pas à moi.
-Malheureux, malheureux que j'étais!</p>
+Malheureux, malheureux que j'étais!
 
-<p>»Je reçus de nouvelles et plus profondes leçons. J'entendis parler de
+»Je reçus de nouvelles et plus profondes leçons. J'entendis parler de
 la différence des sexes, de la naissance et de la croissance des
 enfants; combien le père aimait le sourire de l'enfant au berceau, et
 les vives saillies d'un fils plus grand; comment la vie de la mère se
 passait dans les soins précieux de leur éducation; comment l'esprit de
 la jeunesse s'étendait et s'instruisait; je sus ce qu'étaient un
 frère, une sœur; et je connus toutes les différentes parentés qui
-lient mutuellement un être à un autre.</p>
+lient mutuellement un être à un autre.
 
-<p>»Mais où étaient mes amis et mes parents? Un père n'avait pas eu
+»Mais où étaient mes amis et mes parents? Un père n'avait pas eu
 soin des jours de mon enfance, une mère ne m'avait pas béni par son
 doux sourire et ses caresses; ou bien, s'il en avait été ainsi, toute
 ma vie passée n'était qu'un point, un vide dans lequel je ne
@@ -1433,48 +1244,45 @@ distinguais rien. Ma mémoire avait beau remonter dans le passé, il me
 semblait que j'avais toujours été de la même taille et des mêmes
 proportions. Je n'avais pas encore vu un être qui me ressemblât, ou
 qui recherchât quelque commerce avec moi. Qu'étais-je? Cette question
-revint encore; et je n'y répondis que par des gémissements.</p>
+revint encore; et je n'y répondis que par des gémissements.
 
-<p>»J'expliquerai bientôt la tendance de ces sentiments. Revenons
+»J'expliquerai bientôt la tendance de ces sentiments. Revenons
 maintenant aux habitants de la chaumière, dont l'histoire excitait en
 moi tour-à-tour des sentiments d'indignation, de plaisir et
 d'étonnement, mais qui ne faisaient qu'ajouter à l'amour et au respect
 que j'avais pour mes protecteurs; car j'aimais à les appeler ainsi par
-une illusion innocente et presque pénible.</p>
+une illusion innocente et presque pénible.
 
 
 
 
-<hr class="r5" />
+CHAPITRE XIII
 
 
-<h4><a id="CHAPITRE_XIII">CHAPITRE XIII</a></h4>
-
-
-<p>»J'appris par la suite l'histoire de mes amis. Elle se grava
+»J'appris par la suite l'histoire de mes amis. Elle se grava
 profondément dans mon esprit; car elle se composait d'une foule de
 circonstances fort intéressantes et merveilleuses pour un être aussi
-inexpérimenté que moi.</p>
+inexpérimenté que moi.
 
-<p>»Le vieillard se nommait de Lacey. Il était descendu d'une bonne
+»Le vieillard se nommait de Lacey. Il était descendu d'une bonne
 famille de France, où il avait long-temps vécu dans l'abondance,
 respecté de ses supérieurs et chéri de ses égaux. Son fils avait
 été au service de son pays, et Agathe avait eu rang parmi les dames de
 la plus grande distinction. Peu de mois avant mon arrivée, ils avaient
 vécu dans une grande et riche cité, dont le nom est Paris, entourés
 d'amis, et jouissant de tous les agréments que procurent la vertu, le
-bon goût, ou un esprit cultivé.</p>
+bon goût, ou un esprit cultivé.
 
-<p>»Le père de Safie avait été la cause de leur ruine. C'était un
+»Le père de Safie avait été la cause de leur ruine. C'était un
 marchand Turc, qui avait habité Paris pendant plusieurs années; mais
 qui, pour des raisons que je ne pus apprendre, devint suspect au
 gouvernement. Saisi et jeté en prison le jour même où Safie arriva de
 Constantinople pour le rejoindre, il fut jugé et condamné à mort.
 L'injustice de cette sentence était criante; elle indigna tout Paris,
 dont l'opinion générale fut que la condamnation avait pour motif,
-moins le crime imputé au Turc, que sa religion et ses richesses.</p>
+moins le crime imputé au Turc, que sa religion et ses richesses.
 
-<p>»Félix avait assisté au jugement; en entendant la décision de la
+»Félix avait assisté au jugement; en entendant la décision de la
 cour, il ne mit aucune borne à son horreur et à son indignation. Il
 fit, dès ce moment, le vœu solennel de le sauver, et il chercha alors
 les moyens de réussir dans cette entreprise. Après beaucoup d'efforts
@@ -1483,39 +1291,39 @@ partie du bâtiment, une fenêtre fortement grillée, qui n'était pas
 gardée, et qui éclairait le donjon où l'infortuné Mahométan,
 chargé de chaînes, attendait, dans le désespoir, l'exécution de
 l'affreuse sentence. Félix visita la grille pendant la nuit, et fit
-connaître au prisonnier les intentions dont il était animé.</p>
+connaître au prisonnier les intentions dont il était animé.
 
-<p>»Le Turc, étonné et ravi, tâcha d'exciter le zèle de son
+»Le Turc, étonné et ravi, tâcha d'exciter le zèle de son
 libérateur, en lui promettant des récompenses et des richesses. Félix
 rejeta ses offres avec mépris; cependant, en voyant l'aimable Safie,
 qui avait la permission de visiter son père, et qui, par ses gestes,
 exprimait sa vive reconnaissance, le jeune homme s'avoua, que le captif
 possédait un trésor qui serait le prix le plus beau de ses peines et
-de ses dangers.</p>
+de ses dangers.
 
-<p>»Le Turc s'aperçut promptement de l'impression que sa fille avait
+»Le Turc s'aperçut promptement de l'impression que sa fille avait
 faite sur le cœur de Félix, et tâcha de le mettre encore plus dans
 ses intérêts, en promettait de la lui donner en mariage, dès qu'il
 serait parvenu en lieu de sûreté. Félix était trop délicat pour
 accepter cette offre; cependant il regarda la chance de cet événement,
-comme l'accomplissement de son bonheur.</p>
+comme l'accomplissement de son bonheur.
 
-<p>»Les jours suivants, tandis que tout se préparait pour l'évasion du
+»Les jours suivants, tandis que tout se préparait pour l'évasion du
 marchand, le zèle de Félix fut excité par plusieurs lettres de
 l'aimable Safie, qui parvint à exprimer ses idées dans le langage de
 son amant, par le secours d'un vieux domestique de son père, qui
 comprenait le Français. Elle le remerciait, dans les termes les plus
 ardents, des services qu'il voulait rendre à son père; et en même
-temps elle déplorait avec douceur son propre sort.</p>
+temps elle déplorait avec douceur son propre sort.
 
-<p>»J'ai des copies de ces lettres; car je sus, pendant ma résidence dans
+»J'ai des copies de ces lettres; car je sus, pendant ma résidence dans
 la cabane, me procurer ce qui était nécessaire pour écrire, et je
 voyais souvent les lettres entre les mains de Félix et d'Agathe. Avant
 de nous séparer, je veux vous les donner; elles confirmeront ce que je
 raconte: pour le moment, comme le soleil est déjà très-bas, je me
-bornerai à vous en dire la substance.</p>
+bornerai à vous en dire la substance.
 
-<p>»Safie racontait que sa mère était une Arabe chrétienne, prise et
+»Safie racontait que sa mère était une Arabe chrétienne, prise et
 emmenée en esclavage par les Turcs; qu'elle avait séduit, par sa
 beauté, le cœur du marchand, et qu'elle en était devenue l'épouse.
 La jeune fille parlait avec orgueil et enthousiasme de sa mère, qui,
@@ -1530,31 +1338,31 @@ convenables à la disposition de son âme, accoutumée à de grandes
 idées et à une noble émulation pour la vertu, tandis qu'elle était
 flattée agréablement par la perspective d'épouser un chrétien, et de
 rester dans un pays où les femmes pouvaient prétendre à un rang dans
-la société.</p>
+la société.
 
-<p>»Le jour fut fixé pour l'exécution du Turc; mais, pendant la nuit qui
+»Le jour fut fixé pour l'exécution du Turc; mais, pendant la nuit qui
 devait la précéder, il avait quitté sa prison, et, avant que le jour
 ne parût, il était éloigné de plusieurs lieues de Paris. Félix
 avait obtenu des passeports en son nom, de même qu'aux noms de son
 père et de sa sœur. Avant de rien entreprendre, il avait communiqué
 son plan à son père, qui rendit facile le succès de la ruse, en
 quittant sa maison, sous le prétexte d'un voyage, et en se cachant avec
-sa fille, dans l'un des quartiers obscurs de Paris.</p>
+sa fille, dans l'un des quartiers obscurs de Paris.
 
-<p>»Félix prit la route de Lyon avec les fugitifs, et les conduisit par
+»Félix prit la route de Lyon avec les fugitifs, et les conduisit par
 le mont Cenis à Leghorn, où le marchand se décida à attendre une
-occasion favorable pour passer en quelque partie de la Turquie.</p>
+occasion favorable pour passer en quelque partie de la Turquie.
 
-<p>»Safie résolut de rester avec son père jusqu'au moment de son
+»Safie résolut de rester avec son père jusqu'au moment de son
 départ. Le Turc, de son côté, n'attendit pas ce moment, pour
 renouveler la promesse d'unir sa fille à son libérateur: Félix ne les
 abandonna pas; et, en attendant cet événement, il jouissait de la
 société de l'Arabe, qui lui montrait la plus simple et la plus tendre
 affection. Safie lui chantait aussi les airs délicieux de son pays
 natal; et il s'entretenait avec elle à l'aide d'un interprète, ou de
-regards expressifs.</p>
+regards expressifs.
 
-<p>»Le Turc permettait cette intimité, et encourageait les espérances
+»Le Turc permettait cette intimité, et encourageait les espérances
 des jeunes amants, tandis que dans son cœur il avait formé des plans
 tout opposés. Il ne pouvait supporter l'idée que sa fille fût unie à
 un chrétien; mais il craignait le ressentiment de Félix en montrant du
@@ -1563,9 +1371,9 @@ libérateur, s'il voulait le livrer au gouvernement Italien, sur lequel
 ils s'étaient réfugiés. Il conçut mille plans pour prolonger la ruse
 jusqu'à ce qu'elle ne fût plus nécessaire, et pour emmener
 secrètement sa fille avec lui. Les nouvelles qui arrivèrent de Paris
-secondèrent beaucoup ses projets.</p>
+secondèrent beaucoup ses projets.
 
-<p>»Le gouvernement de France était fort irrité de l'évasion de sa
+»Le gouvernement de France était fort irrité de l'évasion de sa
 victime, et n'épargna rien pour découvrir et punir celui qui l'avait
 sauvée. Le complot de Félix fut promptement connu, et de Lacey fut
 jeté en prison avec Agathe. Ces nouvelles parvinrent à Félix, et
@@ -1577,36 +1385,36 @@ Turc, que s'il trouvait une occasion favorable de fuir avant son retour
 en Italie, Safie serait mise dans un couvent à Leghorn. Ce projet
 arrêté, il quitta l'aimable Arabe, partit pour Paris, et se livra à
 la vengeance des lois, dans l'espoir que cette démarche rendrait la
-liberté à M. de Lacey et à Agathe.</p>
+liberté à M. de Lacey et à Agathe.
 
-<p>»Vain espoir! Ses parents et lui gémirent pendant cinq mois en prison,
+»Vain espoir! Ses parents et lui gémirent pendant cinq mois en prison,
 dans l'attente d'un jugement, qui prononça la confiscation de leurs
-biens, et les condamna à un exil perpétuel.</p>
+biens, et les condamna à un exil perpétuel.
 
-<p>»Ils trouvèrent en Allemagne un misérable asile dans la chaumière
+»Ils trouvèrent en Allemagne un misérable asile dans la chaumière
 où je les découvris. Félix ne tarda pas à connaître la perfidie du
 Turc, pour qui lui et sa famille souffraient une oppression inouïe. Ce
 Turc, en apprenant que son libérateur avait perdu toute fortune et tout
 crédit, était devenu traître à sa conscience et à l'honneur, et
 avait quitté l'Italie avec sa fille, en envoyant insolemment à Félix
-une petite somme d'argent, pour qu'il pût, disait-il, se faire un sort.</p>
+une petite somme d'argent, pour qu'il pût, disait-il, se faire un sort.
 
-<p>»Tels étaient les motifs qui affligeaient le cœur du jeune homme, et
+»Tels étaient les motifs qui affligeaient le cœur du jeune homme, et
 le rendaient, lorsque je le vis d'abord, le plus à plaindre de la
 famille. Il aurait pu supporter la pauvreté, et s'en glorifier même,
 puisqu'elle avait été la récompense de sa vertu; mais l'ingratitude
 du Turc et la perte de sa bien-aimée Safie, étaient des malheurs plus
 amers et plus irréparables. Cependant, dès que la jeune Arabe arriva,
-il se sentit ranimé par une nouvelle vie.</p>
+il se sentit ranimé par une nouvelle vie.
 
-<p>»À peine avait-on appris à Leghorn, que Félix était privé de sa
+»À peine avait-on appris à Leghorn, que Félix était privé de sa
 fortune et de son rang, que le marchand ordonna à sa fille de ne plus
 penser à son amant, mais de se tenir prête à retourner avec lui dans
 sa patrie. Le cœur généreux de Safie en fut outragé; elle voulut
 faire des remontrances à son père, mais celui-ci la quitta avec
-colère, et en lui réitérant ses ordres tyranniques.</p>
+colère, et en lui réitérant ses ordres tyranniques.
 
-<p>»Peu de jours après, le Turc entra dans l'appartement de sa fille, et
+»Peu de jours après, le Turc entra dans l'appartement de sa fille, et
 lui dit précipitamment, qu'il avait des raisons de croire que le secret
 de sa résidence à Leghorn avait été divulgué, et qu'il serait
 bientôt livré au Gouvernement Français. Pour prévenir ce danger, il
@@ -1614,9 +1422,9 @@ avait loué un vaisseau qui devait le transporter à Constantinople, et
 qui dans quelques heures serait à la voile. Il avait l'intention de
 laisser sa fille aux soins d'un serviteur fidèle, qui l'emmènerait
 aussitôt que la plus grande partie de ses biens serait arrivée à
-Leghorn.</p>
+Leghorn.
 
-<p>»Seule avec elle-même, Safie réfléchit à la manière dont elle
+»Seule avec elle-même, Safie réfléchit à la manière dont elle
 devait se conduire dans cette circonstance. Elle envisageait avec
 horreur l'idée de résider en Turquie; sa religion et ses sentiments
 l'en éloignaient. Par quelques papiers de son père, qui tombèrent
@@ -1625,9 +1433,9 @@ habitait. Elle hésita quelque temps, mais enfin elle prit une
 détermination. Prenant avec elle quelques bijoux qui lui appartenaient,
 et une petite somme d'argent, elle quitta l'Italie, et partit pour
 l'Allemagne, accompagnée d'une domestique qui était de Leghorn, mais
-qui comprenait un peu la langue Turque.</p>
+qui comprenait un peu la langue Turque.
 
-<p>»Elle arriva saine et sauve dans une ville, à environ vingt lieues de
+»Elle arriva saine et sauve dans une ville, à environ vingt lieues de
 la chaumière de M. de Lacey, mais elle y fut retenue par sa suivante
 qui tomba dangereusement malade. Elle lui prodigua les soins de la plus
 tendre affection, sans pouvoir l'empêcher de succomber. Le hasard
@@ -1636,47 +1444,44 @@ et les usages du monde, tombât en bonnes mains. La maîtresse de la
 maison où elle avait fait séjour, avait su par l'Italienne le nom de
 l'endroit vers lequel elle se dirigeait, et, après la mort de cette
 pauvre fille, elle prit les mesures les plus convenables, pour que Safie
-arrivât sans danger à la chaumière de son amant».</p>
+arrivât sans danger à la chaumière de son amant».
 
 
 
 
-<hr class="r5" />
+CHAPITRE XIV
 
 
-<h4><a id="CHAPITRE_XIV">CHAPITRE XIV</a></h4>
-
-
-<p>«Telle était l'histoire de mes chers voisins. J'en fus profondément
+«Telle était l'histoire de mes chers voisins. J'en fus profondément
 frappé. J'appris même, en comparant les positions de la vie sociale
 qu'elle développait, à admirer les vertus de cette famille, et à
-détester les vices de l'espèce humaine.</p>
+détester les vices de l'espèce humaine.
 
-<p>»Cependant le crime me paraissait un mal dont j'étais loin. La
+»Cependant le crime me paraissait un mal dont j'étais loin. La
 bienveillance et la générosité étaient toujours devant mes yeux, et
 m'inspiraient le désir de devenir acteur dans cette scène active où
 tant d'admirables qualités étaient déployées et mises en jeu. Mais
 en faisant le récit des progrès de mon intelligence, je ne dois pas
 omettre une circonstance qui remonte au commencement du mois d'août de
-la même année.</p>
+la même année.
 
-<p>»J'étais allé un soir, suivant ma coutume, dans le bois voisin, où
+»J'étais allé un soir, suivant ma coutume, dans le bois voisin, où
 je ramassais ma nourriture, et d'où je rapportais du bois pour mes
 protecteurs. Je trouvai par terre un portemanteau de cuir, qui contenait
 plusieurs articles d'habillement et quelques livres. Je m'en emparai
 avec empressement, et je revins avec ma prise dans ma cabane.
 Heureusement les livres étaient écrits dans la langue dont j'avais
-appris les éléments à la chaumière; c'étaient le <i>Paradis perdu</i>,
-un volume des <i>Vies de Plutarque</i>, et <i>les Passions de Werther.</i> Je
+appris les éléments à la chaumière; c'étaient le _Paradis perdu_,
+un volume des _Vies de Plutarque_, et _les Passions de Werther._ Je
 ressentis la joie la plus vive de posséder ces trésors. Je me mis à
 étudier avec ardeur, et j'exerçais mon esprit sur ces histoires,
-pendant que mes amis se livraient à leurs occupations ordinaires.</p>
+pendant que mes amis se livraient à leurs occupations ordinaires.
 
-<p>»J'aurais peine à vous décrire l'effet de ces livres. Ils me
+»J'aurais peine à vous décrire l'effet de ces livres. Ils me
 présentèrent une infinité de nouvelles images et de nouveaux
 sentiments, qui me remplissaient quelquefois de ravissement, mais qui
 plus souvent me jetaient dans la plus profonde affliction. Dans
-<i>Werther</i>, dont l'histoire simple et touchante offre déjà beaucoup
+_Werther_, dont l'histoire simple et touchante offre déjà beaucoup
 d'intérêt, on examine tant d'opinions, et on répand tant de lumières
 sur ce qui avait été précédemment obscur pour moi, que j'y trouvai
 une source intarissable de réflexions, et de nombreux motifs
@@ -1690,9 +1495,9 @@ caractère était exempt de prétentions; mais il était réfléchi. Les
 discussions sur la mort et le suicide étaient propres à me remplir
 d'étonnement. Je ne prétendais pas juger la question; mais j'inclinai
 vers les opinions du héros dont je pleurai la fin, sans la comprendre
-précisément.</p>
+précisément.
 
-<p>»Cependant, en lisant, je faisais une application plus personnelle à
+»Cependant, en lisant, je faisais une application plus personnelle à
 mes propres sensations et à mon état. Il me parut que j'avais quelque
 ressemblance, et en même temps une étrange différence avec les êtres
 dont je lisais l'histoire, et ceux dont j'écoutais la conversation. Je
@@ -1702,9 +1507,9 @@ avec qui que ce fût. Je pouvais librement cheminer vers la tombe;
 personne ne devait venir verser des pleurs sur ma cendre. Mon extérieur
 était hideux, et ma stature gigantesque: Que devais-je en penser? Qui
 étais-je? Qu'étais-je? D'où venais-je? Quelle était ma destinée?
-Ces questions revenaient sans cesse, sans que je pusse les résoudre.</p>
+Ces questions revenaient sans cesse, sans que je pusse les résoudre.
 
-<p>»Le volume des <i>Vies de Plutarque</i>, qui était tombé entre mes mains,
+»Le volume des _Vies de Plutarque_, qui était tombé entre mes mains,
 contenait les histoires des premiers fondateurs des anciennes
 républiques. Ce livre fit sur moi une impression entièrement
 différente de celle que j'avais éprouvée en lisant Werther. Les
@@ -1729,9 +1534,9 @@ pacifiques, tels que Numa, Solon et Lycurgue, de préférence à Romulus
 et Thésée. La vie patriarcale de mes protecteurs contribua à graver
 fortement ces impressions dans mon esprit. Il se peut cependant qu'elles
 eussent été toutes différentes, si j'eusse été initié au monde par
-un jeune soldat, passionné pour la gloire et le carnage.</p>
+un jeune soldat, passionné pour la gloire et le carnage.
 
-<p>»Le <i>Paradis perdu</i> excita des émotions tout autres et bien plus
+»Le _Paradis perdu_ excita des émotions tout autres et bien plus
 profondes. Il en fut de cet ouvrage comme des deux autres, qui étaient
 tombés entre mes mains; je le pris pour une histoire véritable. Je me
 sentis agité par tous les sentiments d'étonnement et de crainte, que
@@ -1746,9 +1551,9 @@ pouvait lui parler, et s'instruire en communiquant avec des êtres d'une
 nature supérieure: moi, j'étais malheureux, sans appui, et seul. Plus
 d'une fois, je considérai Satan comme l'emblème le plus fidèle de ma
 condition; souvent en effet, en voyant le bonheur des mes protecteurs,
-je me sentais, comme lui, rempli d'un sentiment d'envie.</p>
+je me sentais, comme lui, rempli d'un sentiment d'envie.
 
-<p>»Une autre circonstance me confirma dans l'opinion que j'avais de
+»Une autre circonstance me confirma dans l'opinion que j'avais de
 moi-même. Peu de temps après mon arrivée dans la cabane, je
 découvris quelques papiers dans la poche du vêtement que j'avais
 emporté de votre laboratoire. Je les avais d'abord négligés; mais
@@ -1757,9 +1562,9 @@ tracés, je me mis à les étudier. C'était un journal écrit par vous,
 et relatif aux quatre premiers mois qui précédèrent ma création.
 Vous décriviez avec un soin minutieux chaque opération qui concourait
 au progrès de votre ouvrage; vous mêliez à cette histoire le récit
-des évènements qui avaient rapport à votre famille.</p>
+des évènements qui avaient rapport à votre famille.
 
-<p>»Vous vous souvenez sans doute de ces papiers. Les voici. Rien n'est
+»Vous vous souvenez sans doute de ces papiers. Les voici. Rien n'est
 omis de ce qui a rapport à mon origine maudite; toutes les
 circonstances qui l'ont amenée, quelque dégoût qu'elles offrent, y
 sont fidèlement conservées: la description la plus minutieuse de mon
@@ -1772,9 +1577,9 @@ Pourquoi as-tu formé un monstre si hideux, que toi-même tu t'en es
 image; ma forme présente aussi une ressemblance avec la tienne; mais
 une ressemblance horrible, plus horrible même par la ressemblance.
 Satan avait ses compagnons, ses diables, pour l'admirer, pour
-l'encourager; et moi, je suis solitaire et détesté».</p>
+l'encourager; et moi, je suis solitaire et détesté».
 
-<p>»Telles étaient mes réflexions pendant mes moments de désespoir et
+»Telles étaient mes réflexions pendant mes moments de désespoir et
 de solitude; mais, revenant à contempler les vertus des habitants de la
 chaumière, leur caractère aimable et bienveillant, je me persuadais
 que, lorsqu'ils connaîtraient mon admiration pour leurs vertus, ils
@@ -1787,9 +1592,9 @@ destinée. Je retardai cet essai de quelques mois; car le succès était
 assez important pour m'inspirer la crainte de ne pas réussir. Du reste,
 j'acquérais tant d'expérience chaque jour, que je ne voulus commencer
 cette entreprise, qu'après avoir ajouté quelques mois de plus à ma
-sagesse.</p>
+sagesse.
 
-<p>»Je remarquai, pendant ce temps, plusieurs changements dans la
+»Je remarquai, pendant ce temps, plusieurs changements dans la
 chaumière. La présence de Safie répandait le bonheur, et même plus
 d'abondance, parmi les personnes qui l'environnaient. Félix et Agathe
 donnaient plus de temps à leurs amusements et à leurs causeries; et
@@ -1801,9 +1606,9 @@ qu'à me montrer plus clairement dans quelle affreuse position j'étais
 placé. J'entretenais l'espérance, il est vrai; mais elle
 s'évanouissait toujours, au moment où je voyais ma personne
 réfléchie dans l'eau, ou mon ombre à la clarté de la lune: faible
-image, ombre inconstante, dont je m'effrayais midi-même!</p>
+image, ombre inconstante, dont je m'effrayais midi-même!
 
-<p>»Je m'efforçai de bannir ces craintes, et de m'affermir pour
+»Je m'efforçai de bannir ces craintes, et de m'affermir pour
 l'épreuve que j'avais intention de subir dans quelques mois.
 Quelquefois je laissais mes pensées s'abandonner au délire, et errer
 dans les plaines du paradis; j'osais me représenter ces êtres bons et
@@ -1812,9 +1617,9 @@ croyais voir leurs figures angéliques sourire pour me consoler. Rêves
 insensés! Une Ève n'adoucissait pas mes chagrins, ne partageait point
 mes pensées; j'étais seul. Je me souvenais de la prière qu'Adam
 adressa à son créateur; mais où était le mien? Il m'avait
-abandonné, et, dans l'amertume de mon cœur, je le maudissais.</p>
+abandonné, et, dans l'amertume de mon cœur, je le maudissais.
 
-<p>»L'automne se passa ainsi. Je vis, avec surprise et chagrin, les
+»L'automne se passa ainsi. Je vis, avec surprise et chagrin, les
 feuilles décroître et tomber, et la nature reprendre cet aspect
 stérile et froid qu'elle présentait, lorsque je vis pour la première
 fois les bois et la lune bienfaisante. Cependant, je ne fis pas
@@ -1833,9 +1638,9 @@ affection vers moi. Je n'osais penser qu'ils les détourneraient avec
 mépris et horreur. Le pauvre, qui s'arrêtait à leur porte, n'était
 jamais repoussé. Je demandais, il est vrai, des trésors bien plus
 grands qu'un peu de nourriture ou du repos; je prétendais à l'amitié,
-à la sympathie, et je ne m'en croyais pas tout-à-fait indigne.</p>
+à la sympathie, et je ne m'en croyais pas tout-à-fait indigne.
 
-<p>»L'hiver approchait, et une révolution complète des saisons avait eu
+»L'hiver approchait, et une révolution complète des saisons avait eu
 lieu, depuis que j'étais animé par la vie. Mon attention, à cette
 époque, fut tournée entièrement vers le plan que je ni étais formé,
 et qui était de m'introduire dans la chaumière de mes protecteurs. Je
@@ -1846,9 +1651,9 @@ surnaturelle était le principal objet d'horreur pour ceux qui m'avaient
 vu précédemment. Ma voix, quoique dure, n'avait rien de terrible; je
 pensai donc que si, pendant l'absence de ses enfants, je pouvais obtenir
 la bienveillance et la médiation du vieux de Lacey, je parviendrais,
-grâce à lui, à être toléré par mes plus jeunes protecteurs.</p>
+grâce à lui, à être toléré par mes plus jeunes protecteurs.
 
-<p>»Un jour, le soleil brillait sur les feuilles rougeâtres dont la terre
+»Un jour, le soleil brillait sur les feuilles rougeâtres dont la terre
 était jonchée, et inspirait la gaîté, sans répandre la chaleur;
 Safie, Agathe, et Félix partirent pour faire une longue promenade dans
 la campagne, et le vieillard, qui avait exprimé le désir de ne pas les
@@ -1858,9 +1663,9 @@ mélancolie douce, plus douce même qu'aucun de ceux que j'avais
 entendus auparavant. Sa figure était d'abord animée par le plaisir,
 mais bientôt elle exprima la méditation et la tristesse; enfin, le
 vieillard mit l'instrument de côté, et resta absorbé dans ses
-rêveries.</p>
+rêveries.
 
-<p>»Mon cœur palpitait avec force; c'était l'heure, le moment de
+»Mon cœur palpitait avec force; c'était l'heure, le moment de
 l'épreuve, qui devait confirmer mes espérances, ou réaliser mes
 craintes. Les domestiques étaient allés à une fête voisine. Tout
 était silencieux au dedans et autour de la chaumière: l'occasion
@@ -1869,106 +1674,106 @@ exécution, je sentis mes forces défaillir, et je tombai à terre. Je
 me relevai; je m'armai de toute la fermeté dont j'étais capable, et
 j'écartai les planches que j'avais placées devant ma cabane, pour
 cacher ma retraite. L'air frais me ranima, je m'affermis de nouveau dans
-ma détermination, et je m'approchai de la porte de ma chaumière.</p>
+ma détermination, et je m'approchai de la porte de ma chaumière.
 
-<p>»Je frappai. « Qui est là, dit le vieillard? Entrez».</p>
+»Je frappai. « Qui est là, dit le vieillard? Entrez».
 
-<p>&mdash;«Excusez-moi, lui dis-je, je suis un voyageur qui a besoin d'un peu
+--«Excusez-moi, lui dis-je, je suis un voyageur qui a besoin d'un peu
 de repos, et que vous obligeriez beaucoup, si vous vouliez permettre
-qu'il restât quelques minutes devant le feu».</p>
+qu'il restât quelques minutes devant le feu».
 
-<p>&mdash;«Entrez, dit de Lacey, et je chercherai à vous soulager; mais,
+--«Entrez, dit de Lacey, et je chercherai à vous soulager; mais,
 malheureusement, mes enfants sont sortis; car je suis aveugle, et je
-crains qu'il ne me soit difficile de vous offrir quelque nourriture».</p>
+crains qu'il ne me soit difficile de vous offrir quelque nourriture».
 
-<p>&mdash;«N'en soyez pas en peine, mon généreux hôte, je n'en ai pas
-besoin; je ne réclame qu'un peu de chaleur et de repos».</p>
+--«N'en soyez pas en peine, mon généreux hôte, je n'en ai pas
+besoin; je ne réclame qu'un peu de chaleur et de repos».
 
-<p>»Je m'assis, et il y eut un moment de silence. Je savais que chaque
+»Je m'assis, et il y eut un moment de silence. Je savais que chaque
 minute m'était précieuse; cependant j'étais indécis sur la manière
 dont je commencerais l'entretien; mais le vieillard me tira d'embarras
 en disant: «Étranger, je suppose, à votre langage, que vous êtes mon
-compatriote; êtes-vous Français»?</p>
+compatriote; êtes-vous Français»?
 
-<p>&mdash;«Non; mais j'ai été élevé par une famille Française, et je ne
+--«Non; mais j'ai été élevé par une famille Française, et je ne
 comprends que la langue de ce pays. Je vais, en ce moment, réclamer la
 protection de quelques amis que j'aime sincèrement, et dont j'espère
-obtenir l'amitié».</p>
+obtenir l'amitié».
 
-<p>&mdash;«Sont-ils Allemands»?</p>
+--«Sont-ils Allemands»?
 
-<p>&mdash;«Non, ils sont Français. Mais changeons de conversation. Je suis une
+--«Non, ils sont Français. Mais changeons de conversation. Je suis une
 créature malheureuse et abandonnée; je regarde autour de moi, et je
 n'ai ni parent, ni ami sur la terre. Ces aimables gens, que je vais
 trouver, ne m'ont jamais vu, et ne me connaissent que sous bien peu de
 rapports. Je suis rempli de crainte; car, si je ne réussis pas auprès
-d'eux, je dois m'attendre à être un rebut pour le reste des hommes».</p>
+d'eux, je dois m'attendre à être un rebut pour le reste des hommes».
 
-<p>&mdash;«Ne désespérez pas. Vivre sans amis, c'est assurément vivre
+--«Ne désespérez pas. Vivre sans amis, c'est assurément vivre
 malheureux; mais le cœur de l'homme qui est dégagé de tout intérêt
 particulier, ne renferme qu'amour fraternel et charité. Ayez donc
 confiance; et, si ces amis sont bons et aimables, ne perdez pas
-courage».</p>
+courage».
 
-<p>&mdash;«Ils sont bons, il n'en est pas qui soient meilleurs; mais,
+--«Ils sont bons, il n'en est pas qui soient meilleurs; mais,
 malheureusement, ils sont prévenus contre moi. J'ai un bon naturel;
 jusqu'ici ma vie a été innocente, et quelquefois bienfaisante; mais
 les personnes, dont je vous parle, sont aveuglées par un préjugé
 fatal, et, au lieu de voir en moi un ami bon et sensible, elles ne
-voient qu'un monstre détestable».</p>
+voient qu'un monstre détestable».
 
-<p>&mdash;«C'est un malheur, j'en conviens; mais, si vous n'avez aucun tort, ne
-pouvez-vous pas les détromper»?</p>
+--«C'est un malheur, j'en conviens; mais, si vous n'avez aucun tort, ne
+pouvez-vous pas les détromper»?
 
-<p>&mdash;«Je vais l'essayer; et c'est cette tentative même qui m'accable de
+--«Je vais l'essayer; et c'est cette tentative même qui m'accable de
 tant de terreur. J'aime tendrement ces amis; sans être connu d'eux,
 j'ai pu pendant plusieurs mois connaître les attentions journalières
 qu'ils se prodiguent mutuellement; mais ils croient que je veux leur
-nuire, et c'est ce préjugé que je désire détruire».</p>
+nuire, et c'est ce préjugé que je désire détruire».
 
-<p>&mdash;«Où demeurent ces ami»?</p>
+--«Où demeurent ces ami»?
 
-<p>&mdash;«Près d'ici».</p>
+--«Près d'ici».
 
-<p>&mdash;«Le vieillard garda le silence un moment, et dit: «Si vous voulez me
+--«Le vieillard garda le silence un moment, et dit: «Si vous voulez me
 confier sans réserve les détails de votre histoire, je vous serai
 peut-être utile pour les détromper. Je suis aveugle, et ne puis vous
 juger sur votre figure; mais il y a dans vos paroles un accent qui me
 garantit votre sincérité. Je suis pauvre et exilé, mais ce sera un
 véritable plaisir pour moi de pouvoir, en quelque manière, rendre
-service à une créature humaine».</p>
+service à une créature humaine».
 
-<p>&mdash;«Homme excellent! Je vous remercie, et j'accepte votre offre
+--«Homme excellent! Je vous remercie, et j'accepte votre offre
 généreuse. Votre bonté me rassure; votre secours me permet
 d'espérer, que je ne serai pas chassé de la société de vos
-semblables, ni privé de leur intérêt».</p>
+semblables, ni privé de leur intérêt».
 
-<p>&mdash;«Dieu vous en préserve, quand bien même vous seriez criminel; car
+--«Dieu vous en préserve, quand bien même vous seriez criminel; car
 ce malheur seul pourrait vous conduire au désespoir, et vous éloigner
 de la vertu. Moi aussi je suis malheureux, ma famille a été
 condamnée, et elle était innocente; jugez donc si je ne sens pas vos
-infortunes».</p>
+infortunes».
 
-<p>&mdash;«Comment pourrai-je vous remercier, mon excellent et unique
+--«Comment pourrai-je vous remercier, mon excellent et unique
 bienfaiteur? Vous êtes le premier homme qui m'ait fait entendre des
 paroles bienveillantes; j'en serai toujours reconnaissant. Votre
 humanité me garantit tout succès près des amis que je suis sur le
-point de voir».</p>
+point de voir».
 
-<p>&mdash;«Puis-je connaître le nom et la demeure de ces amis»?</p>
+--«Puis-je connaître le nom et la demeure de ces amis»?
 
-<p>»Je me tus. C'était le moment décisif, où j'allais perdre ou obtenir
+»Je me tus. C'était le moment décisif, où j'allais perdre ou obtenir
 à jamais le bonheur. Je m'efforçai de recueillir assez de fermeté
 pour lui répondre, mais cet effort épuisa toute la force qui me
 restait. Je tombai sur la chaise en sanglotant. Dans ce moment
 j'entendis les pas de mes protecteurs. Je n'avais pas un moment à
 perdre; je m'emparai de la main du vieillard, et je m'écriai: «Voici
 le moment!... Sauvez et protégez moi! Vous et votre famille, vous êtes
-les amis que je cherche. Ne m'abandonnez pas au moment de l'épreuve».</p>
+les amis que je cherche. Ne m'abandonnez pas au moment de l'épreuve».
 
-<p>&mdash;«Grand Dieu! s'écria le vieillard, qui êtes-vous»?</p>
+--«Grand Dieu! s'écria le vieillard, qui êtes-vous»?
 
-<p>»Au même instant la porte de la chaumière s'ouvre; Félix, Safie et
+»Au même instant la porte de la chaumière s'ouvre; Félix, Safie et
 Agathe entrèrent. Qui pourrait décrire l'horreur et la consternation
 dont ils furent saisis en me voyant. Agathe s'évanouit; et Safie,
 incapable de donner des soins à son amie, s'élança hors de la
@@ -1980,25 +1785,22 @@ déchire la gazelle; mais j'avais le cœur oppressé par la plus amère
 douleur, et je me retins. Il se disposait à me frapper de nouveau; mais
 vaincu par la douleur et le désespoir, je quittai la chaumière; et,
 sans être aperçu, je parvins, au milieu du tumulte général, à
-m'échapper jusque dans ma cabane».</p>
+m'échapper jusque dans ma cabane».
 
 
 
 
-<hr class="r5" />
+CHAPITRE XV
 
 
-<h4><a id="CHAPITRE_XV">CHAPITRE XV</a></h4>
-
-
-<p>»Maudit, maudit créateur! Pourquoi vivais-je? Pourquoi, dans cet
+»Maudit, maudit créateur! Pourquoi vivais-je? Pourquoi, dans cet
 instant, n'ai-je pas éteint l'étincelle d'existence que vous m'aviez
 si imprudemment donnée? Je ne sais; le désespoir ne s'était pas
 encore emparé de moi; mes sentiments étaient ceux de la rage et de la
 vengeance. J'aurais eu du plaisir à détruire la chaumière et ses
-habitants, et je me serais rassasié de leurs cris et de leur malheur.</p>
+habitants, et je me serais rassasié de leurs cris et de leur malheur.
 
-<p>»Dès que la nuit fut arrivée, je quittai ma retraite, et je me mis à
+»Dès que la nuit fut arrivée, je quittai ma retraite, et je me mis à
 errer dans le bois: là, cessant d'être retenu par la crainte d'être
 découvert, je donnai cours à mes tourments par des hurlements
 horribles. Semblable à une bête féroce qui a rompu ses liens, je
@@ -2012,22 +1814,22 @@ excepté moi, jouissait du repos ou du bonheur. Semblable au chef des
 Démons, je portais l'enfer en moi-même; sans avoir son génie, je
 voulais déraciner les arbres, répandre le ravage et la destruction
 autour de moi; et, après avoir assouvi ma fureur, m'asseoir sur les
-ruines, et en jouir.</p>
+ruines, et en jouir.
 
-<p>»Je ne pus supporter ce dérèglement de sensations; je me sentis
+»Je ne pus supporter ce dérèglement de sensations; je me sentis
 accablé par l'excès de l'exercice auquel je m'étais livré, et je
 tombai sur la terre humide dans la faible impuissance du désespoir.
 Parmi les hommes, nul n'avait pitié de moi, nul ne me prêtait
 assistance: devais-je amitié à mes ennemis? Non. De ce moment, je
 déclarai une guerre éternelle à l'espèce humaine, et surtout à
-celui qui, en me créant, me réduisait à ce malheur insupportable.</p>
+celui qui, en me créant, me réduisait à ce malheur insupportable.
 
-<p>»Le soleil se leva; j'entendis des voix d'hommes, et je jugeai
+»Le soleil se leva; j'entendis des voix d'hommes, et je jugeai
 impossible de retourner, ce jour-là, dans ma retraite. En conséquence,
 je me cachai dans quelque taillis épais, déterminé à passer le temps
-à réfléchir sur ma situation.</p>
+à réfléchir sur ma situation.
 
-<p>»Le doux éclat du soleil, et l'air pur du jour me rendirent un peu la
+»Le doux éclat du soleil, et l'air pur du jour me rendirent un peu la
 tranquillité. Je me rappelai ce qui s'était passé dans la chaumière,
 et je ne pus m'empêcher de croire que j'avais été trop prompt dans
 mes conclusions. J'avais certainement agi avec imprudence. Il était
@@ -2038,17 +1840,17 @@ découvrir au reste de sa famille, que lorsqu'elle aurait été
 préparée à me voir. Cette erreur ne me parut pas irréparable. Je
 méditai long-temps sur le parti que j'aurais à prendre, et je
 m'arrêtai à celui de retourner à la chaumière, de m'adresser au
-vieillard, et de le mettre dans ma cause par mes représentations.</p>
+vieillard, et de le mettre dans ma cause par mes représentations.
 
-<p>»Ces pensées me calmèrent, et me jetèrent, vers l'après-midi, dans
+»Ces pensées me calmèrent, et me jetèrent, vers l'après-midi, dans
 un profond sommeil; mais l'agitation de mon sang ne me permettait pas
 d'être bercé par des rêves paisibles. L'horrible scène de la veille
 se représentait sans cesse à mes yeux; les femmes fuyaient, et Félix,
 rempli de fureur, m'arrachait aux pieds de son père. Je me réveillai
 épuisé; et je profitai de la nuit, qui était déjà venue, pour
-sortir de ma retraite, et pourvoir à ma nourriture.</p>
+sortir de ma retraite, et pourvoir à ma nourriture.
 
-<p>»Après avoir apaisé ma faim, je dirigeai mes pas vers le sentier bien
+»Après avoir apaisé ma faim, je dirigeai mes pas vers le sentier bien
 connu, qui conduisait à la chaumière. Tout était tranquille. Je
 rentrai dans ma cabane, et je me mis à attendre l'heure à laquelle la
 famille avait coutume de se lever. Cette heure se passa, le soleil
@@ -2056,35 +1858,36 @@ s'éleva dans les deux, et les habitants de la chaumière ne
 paraissaient pas. Je tremblais avec violence, dans la crainte de quelque
 malheur affreux. L'intérieur de la chaumière était sombre; aucun
 mouvement ne se faisait entendre: je ne puis décrire l'agonie de cette
-attente.</p>
+attente.
 
-<p>»Dans ce moment deux paysans vinrent à passer, s'arrêtèrent auprès
+»Dans ce moment deux paysans vinrent à passer, s'arrêtèrent auprès
 de la chaumière, et causèrent ensemble en faisant des gestes violents;
 mais je ne comprenais pas un mot de leur conversation, parce qu'ils
 parlaient la langue du pays, qui différait de celle de mes protecteurs.
 Bientôt après, cependant, Félix s'approcha d'un autre homme: je fus
 surpris de voir qu'il n'avait pas quitté la chaumière ce matin; j'en
 eus même quelqu'inquiétude, et je prêtai une oreille attentive pour
-découvrir, dans ce qu'il dirait, le motif de ces visites inaccoutumées».</p>
+découvrir, dans ce qu'il dirait, le motif de ces visites
+inaccoutumées».
 
-<p>«Faites-vous attention, lui dit son compagnon, que vous serez obligé
+«Faites-vous attention, lui dit son compagnon, que vous serez obligé
 de payer un loyer de trois mois, et de perdre le produit de votre
 jardin? Je ne désire pas profiter d'un avantage injuste, et je demande
 en conséquence que vous preniez quelques jours pour peser votre
-détermination».</p>
+détermination».
 
-<p>&mdash;«C'est tout-à-fait inutile, répondit Félix; nous ne pouvons plus
+--«C'est tout-à-fait inutile, répondit Félix; nous ne pouvons plus
 désormais habiter votre chaumière. La vie de mon père est dans le
 plus grand danger, à cause de l'évènement affreux que je vous ai
 raconté. Ma femme et ma sœur ne reviendront jamais de leur terreur. Ne
 raisonnons pas davantage sur ce sujet. Prenez possession de voire bien,
-et laissez moi quitter ce lieu».</p>
+et laissez moi quitter ce lieu».
 
-<p>»Félix tremblait violemment en parlant ainsi. Il entra, suivi de ses
+»Félix tremblait violemment en parlant ainsi. Il entra, suivi de ses
 compagnons, dans la chaumière, et partit au bout de quelques minutes.
-Depuis, je n'ai jamais vu personne de la famille de M. de Lacey.</p>
+Depuis, je n'ai jamais vu personne de la famille de M. de Lacey.
 
-<p>»Pendant le reste du jour je restai dans ma cabane, accablé par un
+»Pendant le reste du jour je restai dans ma cabane, accablé par un
 désespoir profond et stupide. Mes protecteurs étaient partis, et
 avaient rompu le seul lien qui m'attachait au monde. Pour la première
 fois, mon cœur se remplit de sentiments de vengeance et de haine; au
@@ -2099,9 +1902,9 @@ me trouvais, ma colère se tournait en rage. Dans l'impuissance de nuire
 À l'approche de la nuit, je plaçai une grande quantité de
 combustibles autour de la chaumière; et, après avoir détruit tout
 vestige de culture dans le jardin, j'attendis avec la plus grande
-impatience que la lune fut cachée pour commencer mes opérations.</p>
+impatience que la lune fut cachée pour commencer mes opérations.
 
-<p>»À l'approche de la nuit, un vent terrible s'éleva, et dispersa
+»À l'approche de la nuit, un vent terrible s'éleva, et dispersa
 promptement les nuages qui couvraient le ciel: ce vent, dont la force
 semblait égaler celle de l'avalanche, bouleversa mon esprit, et brisa
 toute ma raison. J'allumai une branche d'arbre sèche, et je tournai
@@ -2111,13 +1914,13 @@ Une partie de son orbe fut enfin cachée, et je brandis ma branche; la
 lune disparut, et je mis le feu, en poussant un cri, à la paille, aux
 bruyères et aux genêts que j'avais rassemblés. Le vent augmenta la
 violence du feu, et la chaumière fut aussitôt enveloppée et dévorée
-par les flammes.</p>
+par les flammes.
 
-<p>»Dès que je fus convaincu qu'aucun secours ne pourrait sauver quelque
+»Dès que je fus convaincu qu'aucun secours ne pourrait sauver quelque
 partie de l'habitation, je me retirai, en me dirigeant vers le bois, où
-je cherchai un asile.</p>
+je cherchai un asile.
 
-<p>»Maintenant que j'avais le monde devant moi, où devais-je porter mes
+»Maintenant que j'avais le monde devant moi, où devais-je porter mes
 pas? Je résolus de fuir loin du théâtre de mes malheurs; mais pour
 moi, haï et méprisé, tous les pays étaient également horribles.
 Enfin, je pensai à vous. J'appris par vos papiers que vous étiez mon
@@ -2126,9 +1929,9 @@ m'avait donné la vie? Félix qui avait appris beaucoup de choses à
 Safie, n'avait pas oublié de lui faire connaître la géographie: de
 cette manière j'avais appris les situations respectives des
 différentes contrées de la terre. Vous aviez indiqué que Genève
-était votre patrie; je résolus de porter mes pas vers cette ville.</p>
+était votre patrie; je résolus de porter mes pas vers cette ville.
 
-<p>»Comment faire pour m'orienter? Je savais qu'il fallait voyager dans
+»Comment faire pour m'orienter? Je savais qu'il fallait voyager dans
 une direction sud ouest, pour arriver à ma destination; mais je n'avais
 d'autre guide que le soleil. Je ne connaissais pas les noms des villes
 que j'avais à traverser, et je ne pouvais demander des renseignements
@@ -2140,9 +1943,9 @@ m'avais jeté dans le monde comme un objet de mépris et d'horreur pour
 l'espèce humaine! Il n'y avait que vous à la pitié et à la justice
 duquel je pusse prétendre, et je me déterminai à réclamer de vous
 cette justice, que j'essayerais en vain d'obtenir de tout autre être
-humain.</p>
+humain.
 
-<p>»Mes voyages furent longs, et mes souffrances cruelles. L'automne
+»Mes voyages furent longs, et mes souffrances cruelles. L'automne
 était avancé lorsque je quittai le lieu qui m'avait si longtemps servi
 de résidence. Je ne voyageais que de nuit, dans la crainte de
 rencontrer l'homme. La nature dépérissait autour de moi, et le soleil
@@ -2158,13 +1961,13 @@ carte du pays, qui était tombée entre mes mains, servirent à me
 diriger; mais souvent je m'égarais de mon chemin. L'horreur de mon
 désespoir ne me laissait aucun repos: chaque incident était un motif
 nouveau de rage et de malheur; mais une circonstance, que je vais
-rapporter, redoubla l'amertume et l'horreur de mes sentiments.</p>
+rapporter, redoubla l'amertume et l'horreur de mes sentiments.
 
-<p>»J'étais arrivé sur les confins du Switzerland: le soleil avait
+»J'étais arrivé sur les confins du Switzerland: le soleil avait
 déjà plus de chaleur, et la terre commençait à se couvrir d'une
-nouvelle verdure.</p>
+nouvelle verdure.
 
-<p>»J'avais coutume de me reposer pendant le jour, et de ne voyager que de
+»J'avais coutume de me reposer pendant le jour, et de ne voyager que de
 nuit, pour éviter l'aspect de l'homme. Un matin, cependant, comme
 j'avais à traverser un bois profond, je hasardai de continuer mon
 voyage après le lever du soleil. C'était un des premiers jours du
@@ -2176,9 +1979,9 @@ ces sensations, je me sentis entraîné jusqu'au point d'oublier ma
 solitude et ma difformité; j'osai même goûter un moment de bonheur.
 De douces larmes arrosèrent encore mes joues, et mes yeux humides se
 levèrent avec reconnaissance vers l'astre bienfaisant auquel je devais
-une semblable jouissance.</p>
+une semblable jouissance.
 
-<p>»Je continuai à suivre les sentiers du bois, jusqu'à sa limite,
+»Je continuai à suivre les sentiers du bois, jusqu'à sa limite,
 marquée par une rivière dont le lit paraissait profond et le cours
 rapide, et dont les bords étaient ombragés par une grande quantité
 d'arbres déjà verdoyants. Je m'arrêtai dans cet endroit, sans savoir
@@ -2197,9 +2000,9 @@ d'un paysan, qui était probablement celui qu'elle avait fui en jouant.
 et courut vers la partie la plus épaisse du bois. Je le suivis
 aussitôt, et presque machinalement; mais l'homme, en me voyant
 approcher, ajusta sur moi le fusil qu'il portait, et fit feu. Je tombai,
-et il s'échappa dans l'épaisseur du bois avec une nouvelle rapidité.</p>
+et il s'échappa dans l'épaisseur du bois avec une nouvelle rapidité.
 
-<p>»Telle était donc la récompense de ma bonté! J'avais sauvé de la
+»Telle était donc la récompense de ma bonté! J'avais sauvé de la
 mort un être humain, et, pour récompense, je souffrais maintenant
 d'une blessure qui avait déchiré la chair jusqu'aux os. Les sentiments
 de bonté et de douceur, qui m'avaient animé peu d'heures auparavant,
@@ -2207,9 +2010,9 @@ firent place à une rage infernale et à des mouvements convulsifs.
 Enflammé par la souffrance, je vouai une haine éternelle à toute
 l'espèce humaine, et en méditant de terribles vengeances; mais
 l'irritation de ma blessure m'accabla, suspendit les mouvements de mon
-pouls, et me fit perdre les sens.</p>
+pouls, et me fit perdre les sens.
 
-<p>»Pendant quelques semaines, je traînai ma malheureuse vie dans les
+»Pendant quelques semaines, je traînai ma malheureuse vie dans les
 bois, en cherchant à soigner la blessure que j'avais reçue. La balle
 était entrée dans mon épaule; et je ne savais si elle y était
 restée, ou si elle avait traversé tout mon corps. Quoi qu'il en fût,
@@ -2217,63 +2020,63 @@ je n'avais aucun moyen de l'extraire. Mes souffrances s'aggravaient
 encore du sentiment oppressif de l'injustice et de l'ingratitude qui en
 était la cause. Dans mes vœux journaliers je demandais vengeance, une
 vengeance entière et terrible, qui seule pourrait tenir lieu des
-outrages et des angoisses que j'avais soufferts.</p>
+outrages et des angoisses que j'avais soufferts.
 
-<p>»Après quelques semaines, ma blessure se guérit, et je continuai mon
+»Après quelques semaines, ma blessure se guérit, et je continuai mon
 voyage. Mes souffrances ne devaient plus être adoucies par l'éclat du
 soleil, ou les douces brises du printemps; la joie n'était plus qu'une
 ironie qui insultait à mon désespoir, et me faisait sentir plus
-péniblement que je n'étais pas destiné à connaître le bonheur.</p>
+péniblement que je n'étais pas destiné à connaître le bonheur.
 
-<p>»J'approchais cependant du terme de mon voyage; deux mois après,
-j'arrivai dans les environs de Genève.</p>
+»J'approchais cependant du terme de mon voyage; deux mois après,
+j'arrivai dans les environs de Genève.
 
-<p>»C'était le soir. Je me cachai dans les champs qui entourent cette
+»C'était le soir. Je me cachai dans les champs qui entourent cette
 ville, pour songer de quelle manière je m'adresserais à vous. J'étais
 accablé par la fatigue et la faim, et beaucoup trop malheureux pour
 jouir des douces brises du soir, ou de la vue du soleil qui se couchait
-derrière les imposantes montagnes du Jura.</p>
+derrière les imposantes montagnes du Jura.
 
-<p>»Un léger sommeil m'arracha en ce moment à mes tristes réflexions;
+»Un léger sommeil m'arracha en ce moment à mes tristes réflexions;
 mais il fut bientôt troublé par rapproche d'un bel enfant, qui vint,
 en courant, et avec toute la gaîté de son âge, dans la retraite où
 je m'étais placé. Tout-à-coup, en le voyant, j'eus la pensée que
 cette petite créature était sans prévention, et avait vécu trop peu
 de temps pour avoir horreur de la difformité. Si, donc, je pouvais le
 prendre, et l'élever comme mon compagnon et mon ami, je ne serais plus
-solitaire sur cette terre peuplée.</p>
+solitaire sur cette terre peuplée.
 
-<p>»Cédant à cette pensée, je saisis l'enfant au passage, et le tirai
+»Cédant à cette pensée, je saisis l'enfant au passage, et le tirai
 vers moi. À ma vue, il couvrit ses yeux de ses mains, et poussa un cri
 d'effroi. J'ôtai de force la main qu'il tenait sur sa figure, et je lui
 dis: «Enfant, que crains-tu? Je n'ai pas l'intention de te faire aucun
-mal; écoute-moi».</p>
+mal; écoute-moi».
 
-<p>»Il se débattait avec violence:&mdash;«Laisse-moi m'en aller,
+»Il se débattait avec violence:--«Laisse-moi m'en aller,
 s'écria-t-il, monstre! vilain méchant! tu veux me manger, et me
 déchirer en morceaux.... Tu es un ogre.... laisse-moi m'en aller, ou je
-le dirai à papa».</p>
+le dirai à papa».
 
-<p>&mdash;«Mon enfant, tu ne reverras plus ton père; il faut que tu viennes
-avec moi.</p>
+--«Mon enfant, tu ne reverras plus ton père; il faut que tu viennes
+avec moi.
 
-<p>&mdash;«Monstre affreux! laisse-moi partir; mon papa est syndic;&mdash;c'est M.
-Frankenstein... Il te punirait, si tu osais me retenir».</p>
+--«Monstre affreux! laisse-moi partir; mon papa est syndic;--c'est M.
+Frankenstein... Il te punirait, si tu osais me retenir».
 
-<p>&mdash;«Frankenstein! tu appartiens donc à mon ennemi... à celui de qui
-j'ai juré de tirer vengeance; tu seras ma première victime».</p>
+--«Frankenstein! tu appartiens donc à mon ennemi... à celui de qui
+j'ai juré de tirer vengeance; tu seras ma première victime».
 
-<p>»L'enfant se débattait encore, et me chargeait d'épithètes qui
+»L'enfant se débattait encore, et me chargeait d'épithètes qui
 portaient le désespoir dans mon cœur. Je lui pris le cou pour
-l'empêcher de crier, et je le vis aussitôt tomber mort à mes pieds.</p>
+l'empêcher de crier, et je le vis aussitôt tomber mort à mes pieds.
 
-<p>«En contemplant ma victime, j'avais le cœur gonflé de joie et fier
+«En contemplant ma victime, j'avais le cœur gonflé de joie et fier
 d'un triomphe infernal. Je frappai des mains, en m'écriant: «Moi
 aussi, je puis porter la désolation; mon ennemi n'est pas au-dessus de
 mes atteintes; cette mort le jettera dans le désespoir, et mille autres
-malheurs pourront l'affliger et l'accabler».</p>
+malheurs pourront l'affliger et l'accabler».
 
-<p>»En fixant mes yeux sur l'enfant, j'aperçus un objet qui brillait sur
+»En fixant mes yeux sur l'enfant, j'aperçus un objet qui brillait sur
 sa poitrine: je le pris, c'était le portrait d'une femme
 très-séduisante. Tout pervers que j'étais, j'en fus transporté, et
 je m'adoucis. Je contemplai quelques moments avec délices ses yeux
@@ -2281,15 +2084,15 @@ noirs ombragés par de longs cils, et ses lèvres gracieuses; mais
 bientôt ma rage revint: je me rappelai que j'étais à jamais privé du
 bonheur que l'on peut attendre d'aussi belles créatures; et que celle
 dont je contemplais l'image, changerait, en me regardant, cet air divin
-de bonté en une expression de dégoût et d'effroi.</p>
+de bonté en une expression de dégoût et d'effroi.
 
-<p>»Vous étonnerez-vous que de telles pensées me transportassent de
+»Vous étonnerez-vous que de telles pensées me transportassent de
 rage? Je m'étonne seulement que, dans ce moment, au lieu de donner
 cours à mes sentiments en exclamations et en désespoir, je ne me sois
 pas précipité au milieu de l'espèce humaine, et que je n'aie pas
-péri en essayant de la détruire.</p>
+péri en essayant de la détruire.
 
-<p>»Accablé par ces sentiments, je quittai le lieu où j'avais commis le
+»Accablé par ces sentiments, je quittai le lieu où j'avais commis le
 meurtre. Je cherchais une retraite plus à l'écart, lorsque je vis une
 femme passer auprès de moi. Elle était jeune, pas aussi belle que
 celle dont je tenais le portrait, mais d'un aspect agréable, et
@@ -2298,9 +2101,9 @@ pensais-je, une de celles qui sourient pour tout le monde, excepté pour
 moi; elle n'échappera pas: grâce aux leçons de Félix, et aux lois
 sanguinaires de l'homme, j'ai appris à préparer le mal. Je m'approchai
 d'elle sans en être vu, et je mis le portrait dans une des poches de
-son vêtement.</p>
+son vêtement.
 
-<p>»Pendant quelques jours j'allai souvent à l'endroit où ces scènes
+»Pendant quelques jours j'allai souvent à l'endroit où ces scènes
 avaient eu lieu: tantôt j'avais le désir de vous voir, tantôt
 j'étais résolu à quitter pour toujours le monde et ses misères.
 Enfin je vins dans ces montagnes, et j'ai erré dans leurs immenses
@@ -2309,41 +2112,38 @@ satisfaire. Nous ne nous séparerons pas que vous n'ayez promis de
 consentir à ma requête. Je suis seul et malheureux; l'homme ne veut
 pas m'admettre dans sa société; mais un être aussi difforme et aussi
 horrible que moi-même ne me repousserait pas. Ma compagne doit avoir le
-même extérieur et les mêmes défauts. Votre devoir est de la créer.</p>
+même extérieur et les mêmes défauts. Votre devoir est de la créer.
 
 
 
 
-<hr class="r5" />
+CHAPITRE XVI
 
 
-<h4><a id="CHAPITRE_XVI">CHAPITRE XVI</a></h4>
-
-
-<p>Le monstre cessa de parler, et fixa les yeux sur moi, dans l'attente
+Le monstre cessa de parler, et fixa les yeux sur moi, dans l'attente
 d'une réponse; mais j'étais troublé, hors de moi, et incapable de
 recueillir assez mes idées pour comprendre toute l'étendue de sa
-proposition. Il continua:</p>
+proposition. Il continua:
 
-<p>«Il faut me créer une femme avec qui je puisse vivre dans l'échange
+«Il faut me créer une femme avec qui je puisse vivre dans l'échange
 de ces sentiments nécessaires à mon existence. Vous seul pouvez le
 faire; et je vous le demande comme un droit que vous ne devez pas
-refuser».</p>
+refuser».
 
-<p>La dernière partie de son histoire avait rallumé dans mon cœur la
+La dernière partie de son histoire avait rallumé dans mon cœur la
 colère qui s'était apaisée pendant le récit de sa vie paisible,
 parmi les habitants de la chaumière, et, lorsqu'il prononça ces
 derniers mots, je ne pus contenir plus long-temps la fureur qui me
-consumait.</p>
+consumait.
 
-<p>&mdash;«Je refuse, répondis-je; et aucun supplice n'arrachera jamais mon
+--«Je refuse, répondis-je; et aucun supplice n'arrachera jamais mon
 consentement. Tu peux me rendre le plus malheureux des hommes; mais tu
 ne m'aviliras jamais à mes propres yeux. Irai-je créer un autre être
 semblable à toi-même, et dont la méchanceté, jointe à la tienne,
 désolerait le monde? Éloigne-toi! Je t'ai répondu; tu peux me
-torturer; mais je ne consentirai jamais à ta demande».</p>
+torturer; mais je ne consentirai jamais à ta demande».
 
-<p>&mdash;«Vous avez tort, répliqua le Démon; et, au lieu de me servir de
+--«Vous avez tort, répliqua le Démon; et, au lieu de me servir de
 menaces, je me contenterai de raisonner avec vous. Je suis méchant,
 parce que je suis malheureux. Ne suis-je pas abandonné et haï par
 toute l'espèce humaine? Vous, mon créateur, si vous me mettiez en
@@ -2362,13 +2162,13 @@ surtout à vous, mon plus grand ennemi, parce que vous êtes mon
 créateur, que je jure une haine éternelle. Prenez-y garde: je
 travaillerai à votre destruction, et je ne m'arrêterai pas que je
 n'aie désolé votre cœur, de manière à ce que vous maudissiez
-l'heure de voire naissance».</p>
+l'heure de voire naissance».
 
-<p>Une rage infernale l'animait en prononçant ces paroles: sa figure se
+Une rage infernale l'animait en prononçant ces paroles: sa figure se
 ridait en contorsions trop horribles, pour que des yeux humains pussent
-la regarder; mais il se calma promptement, et il ajouta:</p>
+la regarder; mais il se calma promptement, et il ajouta:
 
-<p>«Je voulais raisonner; mais mon emportement s'y oppose; et cependant
+«Je voulais raisonner; mais mon emportement s'y oppose; et cependant
 vous ne réfléchissez pas que vous êtes la cause de ses excès. Si un
 être quelconque éprouvait pour moi quelques emotions de bienveillance,
 je la lui rendrais au centuple; pour cet amour d'une seule créature, je
@@ -2383,17 +2183,17 @@ serons innocents, et à l'abri du malheur que j'éprouve maintenant. Ah!
 mon créateur, rendez-moi heureux; qu'un seul bienfait me permette de
 vous exprimer ma reconnaissance! Laissez-moi connaître le plaisir de
 toucher le cœur d'un être existant; ne me refusez pas ce que je vous
-demande»!</p>
+demande»!
 
-<p>Je fus touché. Je frissonnai en pensant aux conséquences que pourrait
+Je fus touché. Je frissonnai en pensant aux conséquences que pourrait
 avoir mon consentement; mais je sentis que ses raisonnements étaient
 assez justes. Son histoire et les sentiments qu'il exprimait dans ce
 moment, prouvaient quelque délicatesse. D'ailleurs, ne lui devais-je
 pas, à titre de créateur, toute la portion de bonheur qu'il était en
 mon pouvoir de lui accorder? Il remarqua un changement dans ce que
-j'éprouvais, et il poursuivit.</p>
+j'éprouvais, et il poursuivit.
 
-<p>«Si vous consentez à ma demande, je ne paraîtrai jamais ni devant
+«Si vous consentez à ma demande, je ne paraîtrai jamais ni devant
 vous, ni devant aucun être humain. J'irai dans les vastes déserts de
 l'Amérique méridionale. Ma nourriture n'est pas celle de l'homme; je
 n'égorge ni l'agneau, ni le chevreau, pour assouvir mon appétit: les
@@ -2405,40 +2205,40 @@ est une image de paix et d'humanité: vous devez sentir que vous ne
 pourriez contrarier mes vœux que par abus de pouvoir et par cruauté.
 Tout à l'heure vous avez été sans pitié pour moi; je lis maintenant
 la compassion dans vos regards; laissez-moi saisir le moment favorable,
-laissez-moi obtenir la promesse de de ce que je désire si ardemment.»</p>
+laissez-moi obtenir la promesse de de ce que je désire si ardemment.»
 
-<p>&mdash;«Tu te proposes, répondis-je, de t'éloigner de la demeure des
+--«Tu te proposes, répondis-je, de t'éloigner de la demeure des
 hommes, de vivre dans ces déserts où tu n'auras d'autre société que
 celle des bêtes féroces. Comment pourras-tu persévérer dans cet
 exil, toi qui désires l'amour et la sympathie de l'homme? Tu reviendras
 rechercher encore leur amitié, et tu ne trouveras que leur haine; la
 passion du mal se renouvellera, et tu auras alors une compagne pour
 t'aider à détruire. Cela ne se peut; ne m'en parles plus, car je n'y
-puis consentir».</p>
+puis consentir».
 
-<p>&mdash;«Quelle inconstance dans vos sentiments! Il n'y a qu'un moment vous
+--«Quelle inconstance dans vos sentiments! Il n'y a qu'un moment vous
 étiez ému par mes raisonnements; pourquoi vous endurcissez-vous contre
 mes plaintes? Je vous jure, par la terre que j'habite, et par vous-même
 qui m'avez créé, que je quitterai, avec la compagne que vous me
 donnerez, le voisinage de l'homme, et que nous irons habiter dans le
 lieu le plus sauvage. Je ne serai plus animé par le mal, car je
 connaîtrai la sympathie: ma vie s'écoulera tranquillement; et, à mes
-derniers moments, je ne maudirai pas mon créateur».</p>
+derniers moments, je ne maudirai pas mon créateur».
 
-<p>Ses paroles firent sur moi un effet étrange. Je fus touché de
+Ses paroles firent sur moi un effet étrange. Je fus touché de
 compassion, et je sentis un moment le désir de le consoler; mais, en le
 regardant, en voyant la masse informe se mouvoir et parler, mon cœur se
 souleva, et mes sentiments furent ceux de l'horreur et de la haine. Je
 m'efforçai de les étouffer. Je pensai que, dans l'impossibilité de
 sympathiser avec lui, je n'avais pas droit de le priver de la petite
-portion de bonheur qu'il était encore en mon pouvoir de lui accorder.</p>
+portion de bonheur qu'il était encore en mon pouvoir de lui accorder.
 
-<p>&mdash;«Tu jures d'être bon, lui dis-je; mais n'as-tu pas déjà montré un
+--«Tu jures d'être bon, lui dis-je; mais n'as-tu pas déjà montré un
 degré de perversité tel que je pourrais avec raison me défier de toi?
 Ne serait-ce pas une feinte pour accroître ton triomphe, en ouvrant une
-plus vaste carrière à ta vengeance?»</p>
+plus vaste carrière à ta vengeance?»
 
-<p>&mdash;«Qu'est-ce? Je croyais avoir excité votre compassion, et vous me
+--«Qu'est-ce? Je croyais avoir excité votre compassion, et vous me
 refusez encore le seul bienfait, qui puisse adoucir mon cœur et me
 rendre bon! Si je n'ai ni devoirs, ni affection, la haine et le crime
 seront mon partage; aimé d'un autre, je n'aurai plus de motif pour
@@ -2447,9 +2247,9 @@ viennent d'une solitude forcée que j'abhorre; et mes vertus se
 formeront nécessairement dans la vie que je passerai avec une créature
 semblable à moi. Je connaîtrai les affections d'un être sensible, et
 je me rattacherai à la chaîne d'existence et d'évènements dont je
-suis maintenant exclus.»</p>
+suis maintenant exclus.»
 
-<p>Je me tus quelque temps, pour réfléchir à tout ce qu'il venait de
+Je me tus quelque temps, pour réfléchir à tout ce qu'il venait de
 dire, et aux différents raisonnements dont il s'était servi. Je
 pensais aux vertus qu'il avait promises au commencement de son
 existence; je compris que tout bon sentiment avait été éteint en lui
@@ -2461,25 +2261,25 @@ créature qui pouvait exister dans les froides cavernes des glaciers, et
 de lutter. Après un long silence de réflexion, je conclus que la
 justice qui lui était due, celle qui était due à mes semblables,
 exigeait que je consentisse à sa demande. Je me tournai vers lui, en
-disant:</p>
+disant:
 
-<p>«Je consens à ta demande; mais j'exige le serment solennel que tu
+«Je consens à ta demande; mais j'exige le serment solennel que tu
 quitteras pour toujours l'Europe, et tout autre lieu dans le voisinage
 de l'homme, dès que je remettrai entre tes mains une femme qui
-t'accompagnera dans ton exil».</p>
+t'accompagnera dans ton exil».
 
-<p>&mdash;«Je jure, s'écria-t-il, par le soleil et la voûte azurée du ciel,
+--«Je jure, s'écria-t-il, par le soleil et la voûte azurée du ciel,
 que, si vous vous rendez à ma prière, tant qu'ils existeront, vous ne
 me reverrez jamais. Retournez chez vous, et commencez vos travaux:
 j'observerai leurs progrès avec une sollicitude inexprimable; mais
-soyez sans crainte, je ne paraîtrai que quand vous serez prêt».</p>
+soyez sans crainte, je ne paraîtrai que quand vous serez prêt».
 
-<p>À ces mots, il me quitta brusquement, dans la crainte, peut-être, de
+À ces mots, il me quitta brusquement, dans la crainte, peut-être, de
 quelque changement dans mes sentiments. Je le vis descendre la montagne
 avec plus de rapidité que le vol d'un aigle, et je le perdis bientôt
-de vue parmi les ondulations de la mer de glace.</p>
+de vue parmi les ondulations de la mer de glace.
 
-<p>Son histoire avait duré toute la journée, et le soleil était sur le
+Son histoire avait duré toute la journée, et le soleil était sur le
 bord de l'horizon lorsqu'il partit. Il était tard: je devais me hâter
 de descendre vers la vallée, pour n'être pas enveloppé par
 l'obscurité; mais mon cœur était oppressé, et ma marche lente.
@@ -2497,27 +2297,27 @@ pleurai avec amertume, et je frappai mes mains avec désespoir, en
 m'écriant: «Ô étoiles, vents et nuages, vous allez tous me railler:
 si vous avez réellement pitié de moi, ôtez-moi les sens et la
 mémoire; anéantissez-moi; et, si vous n'écoutez pas ma prière,
-fuyez, fuyez, et laissez-moi dans les ténèbres»!</p>
+fuyez, fuyez, et laissez-moi dans les ténèbres»!
 
-<p>Ces idées étaient extravagantes et tristes; mais je ne puis vous
+Ces idées étaient extravagantes et tristes; mais je ne puis vous
 décrire combien j'étais accablé par l'éclat des étoiles, et combien
 je prêtais l'oreille à chaque coup de vent, comme s'il devait
-m'entrainer pour me détruire.</p>
+m'entrainer pour me détruire.
 
-<p>Le matin venait de paraître, et je n'étais pas encore arrivé au
+Le matin venait de paraître, et je n'étais pas encore arrivé au
 village de Chamouny. À mon retour, mon air hagard et étrange fut peu
 propre à calmer les craintes de ma famille, qui, toute la nuit, avait
-attendu mon retour avec inquiétude.</p>
+attendu mon retour avec inquiétude.
 
-<p>Le jour suivant, nous retournâmes à Genève. L'intention de mon père,
+Le jour suivant, nous retournâmes à Genève. L'intention de mon père,
 en entreprenant ce voyage, avait été de me distraire, et de me rendre
 la tranquillité que j'avais perdue; mais le remède était loin d'avoir
 réussi. Ne pouvant se rendre compte de l'excessive douleur dont je
 paraissais souffrir, il se hâta de retourner à la maison, dans
 l'espoir que le repos et la monotonie d'une vie domestique adouciraient
-insensiblement mes souffrances, quelle qu'en fût la cause.</p>
+insensiblement mes souffrances, quelle qu'en fût la cause.
 
-<p>Pour moi, j'étais indifférent à tous leurs arrangements, et la tendre
+Pour moi, j'étais indifférent à tous leurs arrangements, et la tendre
 affection de ma bien aimée Élisabeth ne pouvait m'arracher à mon
 désespoir; la promesse, que j'avais faite au Démon, pesait sur mon
 esprit comme le capuchon de fer du Dante sur la tête des hypocrites en
@@ -2527,19 +2327,383 @@ vie. Devez vous vous étonner que je sois quelquefois possédé d'une
 sorte de démence; ou que je voie continuellement autour de moi une
 multitude d'animaux infâmes, et qui m'accablent d'un supplice
 continuel, dont l'horreur m'arrache souvent des cris et des
-gémissements?</p>
+gémissements?
 
-<p>Cependant, ces sentiments se calmèrent insensiblement. Je repris les
+Cependant, ces sentiments se calmèrent insensiblement. Je repris les
 habitudes journalières de de la vie, sinon avec intérêt, du moins
-avec assez de tranquillité.</p>
+avec assez de tranquillité.
 
 
 
 
-<h4>FIN DU TOME DEUXIÈME</h4>
+FIN DU TOME DEUXIÈME
 
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 62405 ***</div>
-</body>
 
-</html>
 
+
+
+End of the Project Gutenberg EBook of Frankenstein, ou le Prométhée moder
+e Volume 2 (of 3), by Mary Wollstonecraft Shelley
+
+*** END OF THIS PROJECT GUTENBERG EBOOK FRANKENSTEIN ***
+
+***** This file should be named 62405-0.txt or 62405-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/4/0/62405/
+
+Produced by Laura Natal Rodrigues at Free Literature (Images
+generously made available by Gallica, Bibliothèque nationale
+de France.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
